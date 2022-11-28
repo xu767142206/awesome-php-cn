@@ -22,11 +22,7 @@
 
 
 
-Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md)
-
-, [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md)
-
-and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) for details.
+Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONTRIBUTING.md), [CODE-OF-CONDUCT](https://github.com/ziadoz/awesome-php/blob/master/CODE-OF-CONDUCT.md)and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORATING.md) for details.
 
 
 
@@ -90,7 +86,7 @@ and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORAT
 
 
 
-    - [刮](#scraping)
+    - [爬虫](#scraping)
 
 
 
@@ -130,7 +126,7 @@ and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORAT
 
 
 
-    - [Documentation](#documentation)
+    - [文档](#documentation)
 
 
 
@@ -210,7 +206,7 @@ and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORAT
 
 
 
-    - [Migrations](#migrations)
+    - [迁移](#migrations)
 
 
 
@@ -266,7 +262,7 @@ and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORAT
 
 
 
-    - [Notifications](#notifications)
+    - [通知](#notifications)
 
 
 
@@ -274,11 +270,11 @@ and [COLLABORATING](https://github.com/ziadoz/awesome-php/blob/master/COLLABORAT
 
 
 
-    - [Internationalisation and Localisation](#internationalisation-and-localisation)
+    - [国际化和本土化](#internationalisation-and-localisation)
 
 
 
-    - [Serverless](#serverless)
+    - [无服务器的](#serverless)
 
 
 
