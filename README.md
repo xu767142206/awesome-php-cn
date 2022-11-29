@@ -10,7 +10,7 @@
 
 
 
-### 不定时更新同步 [更新时间:2022-11-28 11:17:36]
+### 不定时更新同步 [更新时间:2022-11-29 18:56:20]
 
 
 
@@ -3145,9 +3145,7 @@ Libraries to help manage database schemas and migrations.
 
 
 
-* [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - A book
-
-  about building testing PHP applications by Chris Hartjes.
+* [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - Chris Hartjes写的关于构建测试PHP应用程序的书.
 
 
 
@@ -3217,9 +3215,7 @@ Libraries to help manage database schemas and migrations.
 
 
 
-* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) Interviews with the people that make the PHP community
-
-  special.
+* [Voices of the ElePHPant](https://voicesoftheelephpant.com/) - 对使PHP社区变得特别的人的采访.
 
 
 
