@@ -33,7 +33,6 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 - [很棒的PHP](#awesome-php)
 
 
-
     - [作曲家存储库](#composer-repositories)
 
 
@@ -491,6 +490,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 
 * [Yii2](https://github.com/yiisoft/yii2/) - 一种快速、安全、高效的web框架.
+
+
+
+* [Leaf](https://leafphp.dev/) - 轻薄的web框架.
 
 
 
