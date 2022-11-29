@@ -497,6 +497,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 
 
+* [Hyperf](https://hyperf.io/) - 一个基于Swoole的高性能、高度灵活的PHP CLI框架.
+
+
+
 ### Framework Extras
 
 
@@ -649,6 +653,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 
 
+* [Nano](https://nano.hyperf.wiki/) - Hyperf的一个微框架.
+
+
+
+
 ### Micro Framework Extras
 
 
@@ -741,6 +750,11 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 
 
+* [Cecil](https://cecil.app/) - Cecil是一个CLI应用程序，合并Markdown文件，图像和Twig模板，以生成一个静态网站.
+
+
+
+
 * [Couscous](http://couscous.io) - 蒸粗麦粉减价文档变成漂亮的网站. It's GitHub Pages on steroids.
 
 
@@ -830,6 +844,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 
 * [PHP Spider](https://github.com/mvdbos/php-spider) - 一个可配置的和可扩展的PHP web蜘蛛.
+
+
+
+* [PHP Scraper](https://github.com/spekulatius/phpscraper) - 一个非常有意见的网络界面.
 
 
 
@@ -1074,7 +1092,10 @@ Please see [CONTRIBUTING](https://github.com/ziadoz/awesome-php/blob/master/CONT
 
 
 * [Behat](https://docs.behat.org/en/latest/) - 行为驱动开发(BDD)测试框架.
+  
 
+
+* [CakePHP Fixture Factories](https://github.com/vierge-noire/cakephp-fixture-factories) - 立即编写测试fixture，框架不可知.
 
 
 * [Codeception](https://github.com/Codeception/Codeception) - 一个完整的堆栈测试框架.
@@ -2005,6 +2026,10 @@ Libraries to help manage database schemas and migrations.
 
 
 
+* [MongoDB](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP驱动程序.
+
+
+
 ### Queue
 
 
@@ -2310,7 +2335,10 @@ Libraries to help manage database schemas and migrations.
 
 
 * [Stringy](https://github.com/voku/Stringy) - 与多字节字符串处理库的支持.
+  
 
+
+* [T-Regx](https://github.com/T-Regx/T-Regx) - 一个高级的正则表达式库，消除了PHP的陷阱.
 
 
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - 库解析用户代理字符串.
@@ -2701,6 +2729,10 @@ Libraries to help manage database schemas and migrations.
 
 
 
+* [Notion](https://github.com/brd6/notion-sdk-php/) - 用于概念API的PHP库.
+
+
+
 ### Extensions
 
 
@@ -2754,6 +2786,10 @@ Libraries to help manage database schemas and migrations.
 
 
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - 一个库,允许闭包进行序列化.
+
+
+
+* [RTCKit/SIP](https://github.com/rtckit/php-sip) - 一个符合RFC 3261的SIP解析/渲染库.
 
 
 
@@ -2845,7 +2881,19 @@ Libraries to help manage database schemas and migrations.
 
 
 
-### Virtual Machines
+* [ddev](https://github.com/drud/ddev) - 用于PHP的本地web开发环境系统.
+  
+
+
+* [devilbox](https://github.com/cytopia/devilbox) -  用于本地开发的现代Docker LAMP堆栈和MEAN堆栈.
+
+
+
+* [docksal](https://github.com/docksal/docksal) - 统一的Docker:whale:支持macOS、Windows和Linux的web开发环境.
+
+
+
+### Virtual Machines and Compilers
 
 
 
@@ -2862,6 +2910,10 @@ Libraries to help manage database schemas and migrations.
 
 
 * [PeachPie](https://github.com/peachpiecompiler/peachpie) - PHP编译器和运行时.NET and .NET Core.
+
+
+
+* [KPHP](https://github.com/VKCOM/kphp) - 将PHP转换为c++和c++运行时的编译器.
 
 
 
@@ -2946,6 +2998,10 @@ Libraries to help manage database schemas and migrations.
 
 
 * [appserver.io](https://github.com/appserver-io/appserver) - 多线程应用程序服务器的PHP,用PHP编写的.
+
+
+
+* [kubephp](https://github.com/sherifabdlnaby/kubephp) - 用于云本地部署的生产级、无根和优化的PHP容器映像模板.
 
 
 
