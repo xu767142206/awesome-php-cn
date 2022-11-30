@@ -19,6 +19,8 @@
     - [依赖关系管理 Dependency-Management](#依赖关系管理-dependency-management)
 
     - [依赖关系管理临时演员 Dependency-management-extras](#依赖关系管理临时演员-dependency-management-extras)
+      
+    - [网络通信引擎 Network-Communication-Engine](#网络通信引擎-network-communication-engine)
 
     - [框架 Frameworks](#框架-frameworks)
 
@@ -208,6 +210,13 @@
 * [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - 一个图书馆管理PHAR文件在项目使用的作曲家.
 * [Toran Proxy](https://toranproxy.com) - 一个静态的作曲家库和代理.
 
+### 网络通信引擎 Network-Communication-Engine
+
+*php的一些网络通信引擎。*
+
+* [Workerman](https://github.com/walkor/Workerman) - 一个事件驱动的非阻塞I / O库.
+* [swoole](https://github.com/swoole) - 面向生产环境的 PHP 异步网络通信引擎
+
 ### 框架 frameworks
 
 *Web开发框架。*
@@ -221,7 +230,21 @@
 * [Symfony](https://symfony.com/) - 一组可重用的组件和web框架.
 * [Yii2](https://github.com/yiisoft/yii2/) - 一种快速、安全、高效的web框架.
 * [Leaf](https://leafphp.dev/) - 轻薄的web框架.
-* [Hyperf](https://hyperf.io/) - 一个基于Swoole的高性能、高度灵活的PHP CLI框架.
+* [swoole相关](https://github.com/swoole)
+  - [SwooleDistributed](https://github.com/SwooleDistributed/SwooleDistributed) - swoole 分布式全栈框架
+  - [Swoft](https://github.com/swoft-cloud/swoft) - 基于Swoole原生协程，新时代PHP高性能协程框架 https://www.swoft.org
+  - [Hyperf](https://github.com/hyperf-cloud/hyperf) - 企业级的 PHP 协程微服务框架
+  - [Mixphp](https://github.com/mixstart/mixphp) - 基于 Swoole 的FPM、常驻内存、协程三模 PHP 高性能框架 (开发文档完善) http://mixphp.cn
+  - [Laravel-s](https://github.com/hhxsv5/laravel-s) - 集成 Swoole 到 Laravel 或 Lumen
+  - [Laravel-swoole](https://github.com/swooletw/laravel-swoole) - 基于Swoole的高性能HTTP服务器。加速你的Laravel或Lumen应用程序。
+  - [LaravelFly](https://github.com/scil/LaravelFly) - 成为一个绝对安全的解决方案来运行Laravel与Swoole。Laravel + Swoole Coroutine + Safety + Tinker Online.
+  - [Laravoole](https://github.com/garveen/laravoole) - Laravel && ( Swoole || Workerman ) 获得比php-fpm快10倍的速度
+  - [Easyswoole](https://github.com/easy-swoole/easyswoole) - 使用swoole很容易，就像echo "hello world "一样。;
+  - [Swoolefy](https://github.com/bingcool/swoolefy) - swoolefy是一个基于swoole实现的轻量级、高性能、协程级、开放性的API和MVC应用服务框架
+  - [Zan](https://github.com/youzan/zan) - 有赞开源的 PHP 框架 (已停止维护)
+  - [Msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架* [swoole相关](https://github.com/swoole) - 面向生产环境的 PHP 异步网络通信引擎
+* [Workerman相关](https://github.com/walkor/Workerman)
+  - [Webman](https://github.com/walkor/webman) - 基于Workerman的PHP的高性能HTTP服务框架。.
 
 ### 额外的框架 framework-extras
 
@@ -229,7 +252,6 @@
 
 * [CakePHP CRUD](https://github.com/friendsofcake/crud) - CakePHP的快速应用程序开发(RAD)插件.
 * [Knp RAD Components](https://rad.knplabs.com/) - 一组快速应用程序开发(RAD)组件Symfony.
-* [LaravelS](https://github.com/hhxsv5/laravel-s) - 胶水使用Swoole Laravel或腔.
 * [Symfony CMF](https://github.com/symfony-cmf/symfony-cmf) - 内容管理框架来创建自定义的CMS.
 * [Livewire](https://laravel-livewire.com/) - Laravel的完整框架,构建动态ui的痛苦了.
 
@@ -654,14 +676,17 @@
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - 图书馆网络套接字.
 * [ReactPHP](https://github.com/reactphp/reactphp) - 一个事件驱动的非阻塞I / O库.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - 反应性扩展库.
-* [Swoole](https://github.com/swoole/swoole-src) - 事件驱动的异步、并发网络通信框架和高性能为PHP用C写的.
-* [Workerman](https://github.com/walkor/Workerman) - 一个事件驱动的非阻塞I / O库.
+
 
 ### 日志记录 Logging
 
 *库生成和使用日志文件。*
 
 * [Monolog](https://github.com/Seldaek/monolog) - 一个全面的日志记录器.
+* [KLogger](https://github.com/katzgrau/KLogger) - 一个易于使用的PSR-3日志类
+* [Analog](https://github.com/jbroadway/analog) - 一个机遇闭包的微型日志包
+* [SeasLog](https://github.com/neeke/seaslog) - 一个高效的日志扩展
+* [Laravel-Log-Viewer](https://github.com/rap2hpoutre/laravel-log-viewer) - 非常方便的页面 Log 查看工具
 
 ### 电子商务 E-commerce
 
@@ -674,6 +699,8 @@
 * [Shopware](https://github.com/shopware/shopware) - 高度可定制的电子商务软件
 * [Swap](https://github.com/florianv/swap) - 一个汇率库.
 * [Sylius](https://sylius.com/) - 一个开源的电子商务解决方案.
+* [yansongda/pay](https://github.com/yansongda/pay) - 优雅的 Alipay 和 WeChat 的支付 SDK 扩展包
+* [Sebastian Money](https://github.com/sebastianbergmann/money) - 一个处理货币价值的库
 
 ### PDF
 
@@ -683,6 +710,9 @@
 * [PHPPdf](https://github.com/psliwa/PHPPdf) - 从XML生成的pdf文件和图片的库.
 * [Snappy](https://github.com/KnpLabs/snappy) - 一个PDF和图像生成库.
 * [WKHTMLToPDF](https://github.com/wkhtmltopdf/wkhtmltopdf) - 一个将HTML转换为PDF的工具.
+* [phpwkhtmltopdf](https://github.com/mikehaertl/phpwkhtmltopdf)
+* [php-pdftk](https://github.com/mikehaertl/php-pdftk) - 一个基于pdftk的PDF转换和表格工具.
+* [laravel-snappy](https://github.com/barryvdh/laravel-snappy) - PDF 处理工具
 
 ### 办公 Office
 
@@ -1080,6 +1110,7 @@
 * [PHP Watch](https://php.watch/) - PHP的文章,新闻,即将到来的变化,rfc等等.
 * [PHP Weekly](https://www.phpweekly.com/archive.html) - PHP每周时事通讯.
 * [Seven PHP](https://7php.com/) - 一个网站,访问PHP社区的成员.
+* [PHPTrends](http://phptrends.com/) - 一些快速发展的PHP类库检索
 
 ### PHP的书 PHP Books
 
@@ -1102,7 +1133,7 @@
   Hartjes写的关于构建测试PHP应用程序的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -
   这本书涵盖了解析和验证XML文档,使用XPath表达式,使用名称空间以及如何通过编程方式创建和修改XML文件.
-
+  
 ### PHP的视频 PHP Videos
 
 *奇妙与php相关的视频。*
@@ -1136,7 +1167,12 @@
 *与php相关的阅读材料。*
 
 * [php[architect]](https://www.phparch.com/magazine/) - 每月杂志致力于PHP.
-
+* [advanced-php](https://github.com/elarity/advanced-php) - PHP多进程、socket等相关文章
+* [LEARN REGEX THE EASY WAY](https://github.com/ziishaned/learn-regex/blob/master/translations/README-cn.md) - 正则表达式学习
+* [The Linux Command Line](http://linuxcommand.org/) - Linux 命令行教程
+* [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构
+* [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
+  
 ### PHP内部阅读 PHP Internals Reading
 
 *PHP内部或阅读材料相关性能。*
