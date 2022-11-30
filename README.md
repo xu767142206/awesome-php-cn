@@ -14,165 +14,165 @@
 
 - [很棒的PHP](#awesome-php)
 
-    - [作曲家存储库 Composer-Repositories](#作曲家存储库)
+    - [作曲家存储库 Composer-Repositories](#作曲家存储库-composer-repositories)
 
-    - [依赖关系管理 Dependency-Management](#依赖关系管理)
+    - [依赖关系管理 Dependency-Management](#依赖关系管理-dependency-management)
 
-    - [依赖关系管理临时演员 Dependency-management-extras](#依赖关系管理临时演员)
+    - [依赖关系管理临时演员 Dependency-management-extras](#依赖关系管理临时演员-dependency-management-extras)
 
-    - [框架 Frameworks](#框架)
+    - [框架 Frameworks](#框架-frameworks)
 
-    - [额外的框架 Framework-extras](#额外的框架)
+    - [额外的框架 Framework-extras](#额外的框架-framework-extras)
 
-    - [内容管理系统 Content-management-systems-cms](#内容管理系统)
+    - [内容管理系统 Content-management-systems-cms](#内容管理系统-content-management-systems-cms)
 
-    - [组件 Components](#组件)
+    - [组件 Components](#组件-components)
 
-    - [微框架 micro-frameworks](#微框架)
+    - [微框架 micro-frameworks](#微框架-micro-frameworks)
 
-    - [微观框架-扩展 Micro-framework-extras](#微观框架-扩展)
+    - [微观框架-扩展 Micro-framework-extras](#微观框架-扩展-micro-framework-extras)
 
-    - [路由 Routers](#路由)
+    - [路由 Routers](#路由-routers)
 
-    - [模板 Templating](#模板)
+    - [模板 Templating](#模板-templating)
 
-    - [静态网站生成器 Static Site Generators](#静态网站生成器)
+    - [静态网站生成器 Static Site Generators](#静态网站生成器-static-site-generators)
 
     - [HTTP客户端](#HTTP客户端)
 
-    - [爬虫 Scraping](#爬虫)
+    - [爬虫 Scraping](#爬虫-scraping)
 
-    - [中间件 Middlewares)](#中间件)
+    - [中间件 Middlewares)](#中间件-middlewares)
 
     - [URL](#url)
 
-    - [电子邮件 Email](#电子邮件)
+    - [电子邮件 Email](#电子邮件-email)
 
-    - [文件 Files](#文件)
+    - [文件 Files](#文件-files)
 
-    - [流 Streams](#流)
+    - [流 Streams](#流-streams)
 
-    - [依赖注入 Dependency Injection](#依赖注入)
+    - [依赖注入 Dependency Injection](#依赖注入-dependency-injection)
 
-    - [图像 Imagery](#图像)
+    - [图像 Imagery](#图像-imagery)
 
-    - [测试 Testing](#测试)
+    - [测试 Testing](#测试-testing)
 
-    - [持续集成 Continuous Integration](#持续集成)
+    - [持续集成 Continuous Integration](#持续集成-continuous-integration)
 
-    - [文档 Documentation](#文档)
+    - [文档 Documentation](#文档-documentation)
 
-    - [安全 Security](#安全)
+    - [安全 Security](#安全-security)
 
-    - [密码 Passwords](#密码)
+    - [密码 Passwords](#密码-passwords)
 
-    - [代码分析 Code Analysis](#代码分析)
+    - [代码分析 Code Analysis](#代码分析-code-analysis)
 
-    - [代码质量 Code Quality](#代码质量)
+    - [代码质量 Code Quality](#代码质量-code-quality)
 
-    - [静态分析 Static Analysis](#静态分析)
+    - [静态分析 Static Analysis](#静态分析-static-analysis)
 
-    - [建筑 Architectural](#建筑)
+    - [建筑 Architectural](#建筑-architectural)
 
-    - [调试和性能分析 Debugging and Profiling](#调试和性能分析)
+    - [调试和性能分析 Debugging and Profiling](#调试和性能分析-debugging-and-profiling)
 
-    - [构建工具 Build Tools](#构建工具)
+    - [构建工具 Build Tools](#构建工具-build-tools)
 
-    - [任务运行者 Task Runners](#任务运行者)
+    - [任务运行者 Task Runners](#任务运行者-task-runners)
 
-    - [导航 Navigation](#导航)
+    - [导航 Navigation](#导航-navigation)
 
-    - [资产管理 Asset Management](#资产管理)
+    - [资产管理 Asset Management](#资产管理-asset-management)
 
-    - [地理位置 Geolocation](#地理位置)
+    - [地理位置 Geolocation](#地理位置-geolocation)
 
-    - [日期和时间 Date and Time](#日期和时间)
+    - [日期和时间 Date and Time](#日期和时间-date-and-time)
 
-    - [事件 Event](#事件)
+    - [事件 Event](#事件-event)
 
-    - [日志记录 Logging](#日志记录)
+    - [日志记录 Logging](#日志记录-logging)
 
-    - [电子商务 E-commerce](#电子商务)
+    - [电子商务 E-commerce](#电子商务-e-commerce)
 
-    - [PDF](#PDF pdf)
+    - [PDF](#PDF-pdf)
 
-    - [办公 Office](#办公室)
+    - [办公 Office](#办公室 Office)
 
-    - [数据库 Database](#数据库)
+    - [数据库 Database](#数据库 Database)
 
-    - [迁移 Migrations](#迁移)
+    - [迁移 Migrations](#迁移 Migrations)
 
     - [NoSQL](#nosql)
 
-    - [队列 Queue](#队列)
+    - [队列 Queue](#队列 Queue)
 
-    - [搜索 Search](#搜索)
+    - [搜索 Search](#搜索 Search)
 
-    - [命令行 Command Line](#命令行)
+    - [命令行 Command Line](#命令行 Command Line)
 
-    - [身份验证和授权 Authentication and Authorization](#身份验证和授权)
+    - [身份验证和授权 Authentication and Authorization](#身份验证和授权 Authentication and Authorization)
 
     - [标记和CSS Markup and CSS](#标记和CSS Markup and CSS)
 
     - [JSON](#json)
 
-    - [字符串 Strings](#字符串)
+    - [字符串 Strings](#字符串 Strings)
 
-    - [数字 Numbers](#数字)
+    - [数字 Numbers](#数字 Numbers)
 
-    - [过滤和验证 Filtering and Validation](#过滤和验证)
+    - [过滤和验证 Filtering and Validation](#过滤和验证 Filtering and Validation)
 
     - [API](#api)
 
-    - [缓存和锁定 Caching and Locking](#缓存和锁定)
+    - [缓存和锁定 Caching and Locking](#缓存和锁定 Caching and Locking)
 
-    - [数据结构和存储 Data Structure and Storage](#数据结构和存储)
+    - [数据结构和存储 Data Structure and Storage](#数据结构和存储 Data Structure and Storage)
 
-    - [通知 Notifications](#通知)
+    - [通知 Notifications](#通知 Notifications)
 
-    - [部署 Deployment](#部署)
+    - [部署 Deployment](#部署 Deployment)
 
-    - [国际化和本土化 Internationalisation and Localisation](#国际化和本土化)
+    - [国际化和本土化 Internationalisation and Localisation](#国际化和本土化 Internationalisation and Localisation)
 
-    - [无服务器的 Serverless](#无服务器的)
+    - [无服务器的 Serverless](#无服务器的 Serverless)
 
-    - [配置 Configuration](#配置)
+    - [配置 Configuration](#配置 Configuration)
 
-    - [第三方api Third Party APIs](#第三方api)
+    - [第三方api Third Party APIs](#第三方api Third Party APIs)
 
-    - [扩展 Extensions](#扩展)
+    - [扩展 Extensions](#扩展 Extensions)
 
-    - [杂项 Miscellaneous](#杂项)
+    - [杂项 Miscellaneous](#杂项 Miscellaneous)
 
-- [软件 Software](#软件)
+- [软件 Software](#软件 Software)
 
-    - [PHP安装 PHP Installation](#PHP安装)
+    - [PHP安装 PHP Installation](#PHP安装 PHP Installation)
 
-    - [开发环境 Development Environment](#开发环境)
+    - [开发环境 Development Environment](#开发环境 Development Environment)
 
-    - [虚拟机 Virtual Machines and Compilers](#虚拟机)
+    - [虚拟机 Virtual Machines and Compilers](#虚拟机 Virtual Machines and Compilers)
 
-    - [文本编辑器和ide Text Editors and IDEs](#文本编辑器和ide)
+    - [文本编辑器和ide Text Editors and IDEs](#文本编辑器和ide Text Editors and IDEs)
 
-    - [Web应用程序 Web Applications](#Web应用程序)
+    - [Web应用程序 Web Applications](#Web应用程序 Web Applications)
 
-    - [基础设施 Infrastructure](#基础设施)
+    - [基础设施 Infrastructure](#基础设施 Infrastructure)
 
-- [资源 Resources](#资源)
+- [资源 Resources](#资源 Resources)
 
-    - [PHP的网站 PHP Websites](#PHP的网站)
+    - [PHP的网站 PHP Websites](#PHP的网站 PHP Websites)
 
-    - [PHP的书 PHP Books](#PHP的书)
+    - [PHP的书 PHP Books](#PHP的书 PHP Books)
 
-    - [PHP的视频 PHP Videos](#PHP的视频)
+    - [PHP的视频 PHP Videos](#PHP的视频 PHP Videos)
 
-    - [PHP播客 PHP Podcasts](#PHP播客)
+    - [PHP播客 PHP Podcasts](#PHP播客 PHP Podcasts)
 
-    - [PHP通讯 PHP Newsletters](#PHP通讯)
+    - [PHP通讯 PHP Newsletters](#PHP通讯 PHP Newsletters)
 
-    - [PHP阅读 PHP Reading](#PHP阅读)
+    - [PHP阅读 PHP Reading](#PHP阅读 PHP Reading)
 
-    - [PHP内部阅读 PHP Internals Reading](#PHP内部阅读)
+    - [PHP内部阅读 PHP Internals Reading](#PHP内部阅读 PHP Internals Reading )
 
 ### 作曲家存储库 composer-repositories
 
