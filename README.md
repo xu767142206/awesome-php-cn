@@ -1032,6 +1032,7 @@
 * [OpenWhisk](https://openwhisk.apache.org/) - 一个开源serverless云平台.
 * [Serverless Framework](https://www.serverless.com/framework) - 一个开源框架构建serverless应用程序.
 * [Laravel Vapor](https://vapor.laravel.com/) - Laravel serverless部署平台,由AWS.
+* [AWSGoat](https://github.com/ine-labs/AWSGoat) - AWSGoat是AWS上的一个设计脆弱的基础设施.
 
 ## 配置 Configuration
 
@@ -1085,8 +1086,7 @@
 
 * [PHP CPP](https://www.php-cpp.com/) - 开发PHP扩展的C库.
 * [Zephir](https://github.com/zephir-lang/zephir ) - 编译语言PHP开发PHP扩展和C之间.
-
-- [PHP-X](https://github.com/swoole/PHP-X) - Zend API的C++封装器.
+* [PHP-X](https://github.com/swoole/PHP-X) - Zend API的C++封装器.
 
 ### 杂项 Miscellaneous
 
