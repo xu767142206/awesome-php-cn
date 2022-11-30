@@ -94,85 +94,85 @@
 
     - [电子商务 E-commerce](#电子商务-e-commerce)
 
-    - [PDF](#PDF-pdf)
+    - [PDF](#PDF)
 
-    - [办公 Office](#办公室 Office)
+    - [办公 Office](#办公室-office)
 
-    - [数据库 Database](#数据库 Database)
+    - [数据库 Database](#数据库-database)
 
-    - [迁移 Migrations](#迁移 Migrations)
+    - [迁移 Migrations](#迁移-migrations)
 
     - [NoSQL](#nosql)
 
-    - [队列 Queue](#队列 Queue)
+    - [队列 Queue](#队列-queue)
 
-    - [搜索 Search](#搜索 Search)
+    - [搜索 Search](#搜索-search)
 
-    - [命令行 Command Line](#命令行 Command Line)
+    - [命令行 Command Line](#命令行-command-line)
 
-    - [身份验证和授权 Authentication and Authorization](#身份验证和授权 Authentication and Authorization)
+    - [身份验证和授权 Authentication and Authorization](#身份验证和授权-authentication-and-authorization)
 
-    - [标记和CSS Markup and CSS](#标记和CSS Markup and CSS)
+    - [标记和CSS Markup and CSS](#标记和CSS-markup-and-css)
 
     - [JSON](#json)
 
-    - [字符串 Strings](#字符串 Strings)
+    - [字符串 Strings](#字符串-strings)
 
-    - [数字 Numbers](#数字 Numbers)
+    - [数字 Numbers](#数字-numbers)
 
-    - [过滤和验证 Filtering and Validation](#过滤和验证 Filtering and Validation)
+    - [过滤和验证 Filtering and Validation](#过滤和验证-filtering-and-validation)
 
     - [API](#api)
 
-    - [缓存和锁定 Caching and Locking](#缓存和锁定 Caching and Locking)
+    - [缓存和锁定 Caching and Locking](#缓存和锁定-caching-and-locking)
 
-    - [数据结构和存储 Data Structure and Storage](#数据结构和存储 Data Structure and Storage)
+    - [数据结构和存储 Data Structure and Storage](#数据结构和存储-data-structure-and-storage)
 
-    - [通知 Notifications](#通知 Notifications)
+    - [通知 Notifications](#通知-notifications)
 
-    - [部署 Deployment](#部署 Deployment)
+    - [部署 Deployment](#部署-deployment)
 
-    - [国际化和本土化 Internationalisation and Localisation](#国际化和本土化 Internationalisation and Localisation)
+    - [国际化和本土化 Internationalisation and Localisation](#国际化和本土化-internationalisation-and-localisation)
 
-    - [无服务器的 Serverless](#无服务器的 Serverless)
+    - [无服务器的 Serverless](#无服务器的-serverless)
 
-    - [配置 Configuration](#配置 Configuration)
+    - [配置 Configuration](#配置-configuration)
 
-    - [第三方api Third Party APIs](#第三方api Third Party APIs)
+    - [第三方api Third Party APIs](#第三方api-third-party-apis)
 
-    - [扩展 Extensions](#扩展 Extensions)
+    - [扩展 Extensions](#扩展-extensions)
 
-    - [杂项 Miscellaneous](#杂项 Miscellaneous)
+    - [杂项 Miscellaneous](#杂项-miscellaneous)
 
-- [软件 Software](#软件 Software)
+- [软件 Software](#软件-software)
 
-    - [PHP安装 PHP Installation](#PHP安装 PHP Installation)
+    - [PHP安装 PHP Installation](#PHP安装-PHP-installation)
 
-    - [开发环境 Development Environment](#开发环境 Development Environment)
+    - [开发环境 Development Environment](#开发环境-development-environment)
 
-    - [虚拟机 Virtual Machines and Compilers](#虚拟机 Virtual Machines and Compilers)
+    - [虚拟机 Virtual Machines and Compilers](#虚拟机-virtual-Machines-and-compilers)
 
-    - [文本编辑器和ide Text Editors and IDEs](#文本编辑器和ide Text Editors and IDEs)
+    - [文本编辑器和ide Text Editors and IDEs](#文本编辑器和ide-text-editors-and-ides)
 
-    - [Web应用程序 Web Applications](#Web应用程序 Web Applications)
+    - [Web应用程序 Web Applications](#Web应用程序-web-applications)
 
-    - [基础设施 Infrastructure](#基础设施 Infrastructure)
+    - [基础设施 Infrastructure](#基础设施-infrastructure)
 
-- [资源 Resources](#资源 Resources)
+- [资源 Resources](#资源-resources)
 
-    - [PHP的网站 PHP Websites](#PHP的网站 PHP Websites)
+    - [PHP的网站 PHP Websites](#PHP的网站-php-websites)
 
-    - [PHP的书 PHP Books](#PHP的书 PHP Books)
+    - [PHP的书 PHP Books](#PHP的书-php-books)
 
-    - [PHP的视频 PHP Videos](#PHP的视频 PHP Videos)
+    - [PHP的视频 PHP Videos](#PHP的视频-php-videos)
 
-    - [PHP播客 PHP Podcasts](#PHP播客 PHP Podcasts)
+    - [PHP播客 PHP Podcasts](#PHP播客-php-podcasts)
 
-    - [PHP通讯 PHP Newsletters](#PHP通讯 PHP Newsletters)
+    - [PHP通讯 PHP Newsletters](#PHP通讯-php-newsletters)
 
-    - [PHP阅读 PHP Reading](#PHP阅读 PHP Reading)
+    - [PHP阅读 PHP Reading](#PHP阅读-php-reading)
 
-    - [PHP内部阅读 PHP Internals Reading](#PHP内部阅读 PHP Internals Reading )
+    - [PHP内部阅读 PHP Internals Reading](#PHP内部阅读-php-internals-reading)
 
 ### 作曲家存储库 composer-repositories
 
