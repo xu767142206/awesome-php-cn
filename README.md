@@ -357,14 +357,13 @@
 * [Retrofit](https://github.com/tebru/retrofit-php) - 图书馆,以缓解创建REST API的客户.
 * [Symfony HTTP Client](https://github.com/symfony/http-client) - 同步或获取HTTP资源的组件异步.
 * [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP消息实现.
-
-- [amphp/artax](https://github.com/amphp/artax) - An Asynchronous HTTP Client for PHP
-- [HTTPFul](https://github.com/nategood/httpful) - 一个链式HTTP客户端
-- [php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP的Curl类
-- [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
-- [medz/cors](https://github.com/medz/cors) - PHP CORS（跨源资源共享）中间件.
-- [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors) - laravel-cors包允许你用Laravel中间件配置发送跨源资源共享头信息。
-- [lezhnev74/openapi-psr7-validator](https://github.com/lezhnev74/openapi-psr7-validator) -
+* [amphp/artax](https://github.com/amphp/artax) - An Asynchronous HTTP Client for PHP
+* [HTTPFul](https://github.com/nategood/httpful) - 一个链式HTTP客户端
+* [php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP的Curl类
+* [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
+* [medz/cors](https://github.com/medz/cors) - PHP CORS（跨源资源共享）中间件.
+* [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors) - laravel-cors包允许你用Laravel中间件配置发送跨源资源共享头信息。
+* [lezhnev74/openapi-psr7-validator](https://github.com/lezhnev74/openapi-psr7-validator) -
   它根据OpenAPI规范验证PSR-7消息（HTTP请求/响应）.
 
 ### 爬虫 Scraping
@@ -628,6 +627,10 @@
 * [Pipeline](https://github.com/thephpleague/pipeline) - 管道模式实现.
 * [Porter](https://github.com/ScriptFUSION/Porter) - 数据导入抽象库消费Web api和其他数据源.
 * [RulerZ](https://github.com/K-Phoen/rulerz) - 一个强大的规则引擎和实施规范的模式.
+* [symfony/workflow](https://github.com/symfony/workflow) - Workflow组件提供的工具用来管理一个工作流或有限状态机
+* [Patchwork](http://antecedent.github.io/patchwork/) - 一个重新定义用户的函数库
+* [Finite](http://yohan.giarel.li/Finite) - 一个简单的PHP有限状态机
+* [Ruler](https://github.com/bobthecow/Ruler) - 一个简单的无状态的产生环境规则的引擎
 
 ### 调试和性能分析 Debugging and Profiling
 
@@ -988,7 +991,13 @@
 * [PINQ](https://github.com/TimeToogo/Pinq) - 一个基于PHP库.NET's LINQ (Language Integrated Query).
 * [Serializer](https://github.com/schmittjoh/serializer) - 图书馆的连载和de-serialising数据.
 * [YaLinqo](https://github.com/Athari/YaLinqo) - 另一个LINQ为PHP对象.
+* [PHP Option](https://github.com/schmittjoh/php-option) - 一个PHP选项类型的库
 * [Laminas Serializer](https://github.com/laminas/laminas-serializer) - 另一个图书馆连载和de-serialising数据.
+* [Compose](https://github.com/igorw/compose) - 一个功能组合库
+* [Monad PHP](https://github.com/ircmaxell/monad-php) - 一个简单Monad库
+* [Galapagos](https://github.com/endel/galapagos) - 语言转换进化
+* [Lib Accessor](https://github.com/phine/lib-accessor) - 一个简化访问的库
+* [laracasts/Laravel-5-Generators-Extended](https://github.com/laracasts/Laravel-5-Generators-Extended) - Laracasts 出品的代码快速生成工具
 
 ### 通知 Notifications
 
