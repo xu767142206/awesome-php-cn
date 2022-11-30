@@ -519,7 +519,7 @@
 * [CircleCI](https://circleci.com) - 持续集成平台.
 * [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - 让GitLab CI测试、构建、部署代码. TravisCi
   like.
-* [Jenkins](https://www.jenkins.io/) - 持续集成平台([PHP支持]((https://www.jenkins.io/solutions/php/))).
+* [Jenkins](https://www.jenkins.io/) - 持续集成平台([PHP支持](https://www.jenkins.io/solutions/php/)).
 * [JoliCi](https://github.com/jolicode/JoliCi) - 持续集成的客户端用PHP编写的,由码头工人.
 * [PHPCI](https://github.com/dancryer/phpci) - 一个开源的PHP持续集成平台.
 * [SemaphoreCI](https://semaphoreci.com/) - 持续集成平台开源和私人项目.
@@ -568,6 +568,9 @@
 * [PHP Password Lib](https://github.com/ircmaxell/PHP-PasswordLib) - 库生成和验证密码.
 * [phpass](https://www.openwall.com/phpass/) - 一个便携式密码散列的框架.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - 一个现实的PHP密码强度估计基于Zxcvbn JS库.
+* [tuupola/base62](https://github.com/tuupola/base62) - base62编码库(短网址应用)
+* [stephen-hill/base58php](https://github.com/stephen-hill/base58php) - base58编码库(Bitcoin中使用的一种独特的编码方式，主要用于产生Bitcoin的钱包地址)
+* [base85](https://github.com/tuupola/base85) - base85编码库(在base64的基础上进一步压缩数据量,应用于Adobe的PostScript语言和PDF文档格式)
 
 ### 代码分析 Code Analysis
 
