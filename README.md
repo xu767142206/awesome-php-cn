@@ -14,165 +14,165 @@
 
 - [很棒的PHP](#awesome-php)
 
-    - [作曲家存储库 Composer-Repositories](#作曲家存储库 composer-repositories)
+    - [作曲家存储库 Composer-Repositories](#作曲家存储库)
 
-    - [依赖关系管理 Dependency-Management](#依赖关系管理 dependency-management)
+    - [依赖关系管理 Dependency-Management](#依赖关系管理)
 
-    - [依赖关系管理临时演员 Dependency-management-extras](#依赖关系管理临时演员 dependency-management-extras)
+    - [依赖关系管理临时演员 Dependency-management-extras](#依赖关系管理临时演员)
 
-    - [框架 Frameworks](#框架 frameworks)
+    - [框架 Frameworks](#框架)
 
-    - [额外的框架 Framework-extras](#额外的框架 framework-extras)
+    - [额外的框架 Framework-extras](#额外的框架)
 
-    - [内容管理系统 Content-management-systems-cms](#内容管理系统 content-management-systems-cms)
+    - [内容管理系统 Content-management-systems-cms](#内容管理系统)
 
-    - [组件 Components](#组件 components)
+    - [组件 Components](#组件)
 
-    - [微框架 micro-frameworks](#微框架 micro-frameworks)
+    - [微框架 micro-frameworks](#微框架)
 
-    - [微观框架-扩展 Micro-framework-extras](#微观框架-扩展 micro-framework-extras)
+    - [微观框架-扩展 Micro-framework-extras](#微观框架-扩展)
 
-    - [路由 Routers](#路由 routers)
+    - [路由 Routers](#路由)
 
-    - [模板 Templating](#模板 templating)
+    - [模板 Templating](#模板)
 
-    - [静态网站生成器 Static Site Generators](#静态网站生成器 static-site-generators)
+    - [静态网站生成器 Static Site Generators](#静态网站生成器)
 
     - [HTTP客户端](#HTTP客户端)
 
-    - [爬虫 Scraping](#爬虫 scraping)
+    - [爬虫 Scraping](#爬虫)
 
-    - [中间件 Middlewares)](#中间件 middlewares)
+    - [中间件 Middlewares)](#中间件)
 
     - [URL](#url)
 
-    - [电子邮件 Email](#电子邮件 Email)
+    - [电子邮件 Email](#电子邮件)
 
-    - [文件 Files](#文件 Files)
+    - [文件 Files](#文件)
 
-    - [流 Streams](#流 Streams)
+    - [流 Streams](#流)
 
-    - [依赖注入 Dependency Injection](#依赖注入 Dependency Injection)
+    - [依赖注入 Dependency Injection](#依赖注入)
 
-    - [图像 Imagery](#图像 Imagery)
+    - [图像 Imagery](#图像)
 
-    - [测试 Testing](#测试 testing)
+    - [测试 Testing](#测试)
 
-    - [持续集成 Continuous Integration](#持续集成 Continuous Integration)
+    - [持续集成 Continuous Integration](#持续集成)
 
-    - [文档 Documentation](#文档 Documentation)
+    - [文档 Documentation](#文档)
 
-    - [安全 Security(#安全 Security)
+    - [安全 Security](#安全)
 
-    - [密码 Passwords](#密码 Passwords)
+    - [密码 Passwords](#密码)
 
-    - [代码分析 Code Analysis](#代码分析 Code Analysis)
+    - [代码分析 Code Analysis](#代码分析)
 
-    - [代码质量 Code Quality](#代码质量 Code Quality)
+    - [代码质量 Code Quality](#代码质量)
 
-    - [静态分析 Static Analysis](#静态分析 Static Analysis)
+    - [静态分析 Static Analysis](#静态分析)
 
-    - [建筑 Architectural](#建筑 Architectural)
+    - [建筑 Architectural](#建筑)
 
-    - [调试和性能分析 Debugging and Profiling](#调试和性能分析 Debugging and Profiling)
+    - [调试和性能分析 Debugging and Profiling](#调试和性能分析)
 
-    - [构建工具 Build Tools](#构建工具 Build Tools)
+    - [构建工具 Build Tools](#构建工具)
 
-    - [任务运行者 Task Runners](#任务运行者 Task Runners)
+    - [任务运行者 Task Runners](#任务运行者)
 
-    - [导航 Navigation](#导航 Navigation)
+    - [导航 Navigation](#导航)
 
-    - [资产管理 Asset Management](#资产管理 Asset Management)
+    - [资产管理 Asset Management](#资产管理)
 
-    - [地理位置 Geolocation](#地理位置 Geolocation)
+    - [地理位置 Geolocation](#地理位置)
 
-    - [日期和时间 Date and Time](#日期和时间 Date and Time)
+    - [日期和时间 Date and Time](#日期和时间)
 
-    - [事件 Event](#事件 Event)
+    - [事件 Event](#事件)
 
-    - [日志记录 Logging](#日志记录 Logging)
+    - [日志记录 Logging](#日志记录)
 
-    - [电子商务 E-commerce](#电子商务 E-commerce)
+    - [电子商务 E-commerce](#电子商务)
 
     - [PDF](#PDF pdf)
 
-    - [办公 Office](#办公室 Office)
+    - [办公 Office](#办公室)
 
-    - [数据库 Database](#数据库 Database)
+    - [数据库 Database](#数据库)
 
-    - [迁移 Migrations](#迁移 Migrations)
+    - [迁移 Migrations](#迁移)
 
     - [NoSQL](#nosql)
 
-    - [队列 Queue](#队列 Queue)
+    - [队列 Queue](#队列)
 
-    - [搜索 Search](#搜索 Search)
+    - [搜索 Search](#搜索)
 
-    - [命令行 Command Line](#命令行 Command Line)
+    - [命令行 Command Line](#命令行)
 
-    - [身份验证和授权 Authentication and Authorization](#身份验证和授权 Authentication and Authorization)
+    - [身份验证和授权 Authentication and Authorization](#身份验证和授权)
 
     - [标记和CSS Markup and CSS](#标记和CSS Markup and CSS)
 
     - [JSON](#json)
 
-    - [字符串 Strings](#字符串 Strings)
+    - [字符串 Strings](#字符串)
 
-    - [数字 Numbers](#数字 Numbers)
+    - [数字 Numbers](#数字)
 
-    - [过滤和验证 Filtering and Validation](#过滤和验证 Filtering and Validation)
+    - [过滤和验证 Filtering and Validation](#过滤和验证)
 
     - [API](#api)
 
-    - [缓存和锁定 Caching and Locking](#缓存和锁定 Caching and Locking)
+    - [缓存和锁定 Caching and Locking](#缓存和锁定)
 
-    - [数据结构和存储 Data Structure and Storage](#数据结构和存储 Data Structure and Storage)
+    - [数据结构和存储 Data Structure and Storage](#数据结构和存储)
 
-    - [通知 Notifications](#通知 Notifications)
+    - [通知 Notifications](#通知)
 
-    - [部署 Deployment](#部署 Deployment)
+    - [部署 Deployment](#部署)
 
-    - [国际化和本土化 Internationalisation and Localisation](#国际化和本土化 Internationalisation and Localisation)
+    - [国际化和本土化 Internationalisation and Localisation](#国际化和本土化)
 
-    - [无服务器的 Serverless](#无服务器的 Serverless)
+    - [无服务器的 Serverless](#无服务器的)
 
-    - [配置 Configuration](#配置 Configuration)
+    - [配置 Configuration](#配置)
 
-    - [第三方api Third Party APIs](#第三方api Third Party APIs)
+    - [第三方api Third Party APIs](#第三方api)
 
-    - [扩展 Extensions](#扩展 Extensions)
+    - [扩展 Extensions](#扩展)
 
-    - [杂项 Miscellaneous](#杂项 Miscellaneous)
+    - [杂项 Miscellaneous](#杂项)
 
-- [软件 Software](#软件 Software)
+- [软件 Software](#软件)
 
-    - [PHP安装 PHP Installation](#PHP安装 PHP Installation)
+    - [PHP安装 PHP Installation](#PHP安装)
 
-    - [开发环境 Development Environment](#开发环境 Development Environment)
+    - [开发环境 Development Environment](#开发环境)
 
-    - [虚拟机 Virtual Machines and Compilers](#虚拟机 Virtual Machines and Compilers)
+    - [虚拟机 Virtual Machines and Compilers](#虚拟机)
 
-    - [文本编辑器和ide Text Editors and IDEs](#文本编辑器和ide Text Editors and IDEs)
+    - [文本编辑器和ide Text Editors and IDEs](#文本编辑器和ide)
 
-    - [Web应用程序 Web Applications](#Web应用程序 Web Applications)
+    - [Web应用程序 Web Applications](#Web应用程序)
 
-    - [基础设施 Infrastructure](#基础设施 Infrastructure)
+    - [基础设施 Infrastructure](#基础设施)
 
-- [资源 Resources](#资源 Resources)
+- [资源 Resources](#资源)
 
-    - [PHP的网站 PHP Websites](#PHP的网站 PHP Websites)
+    - [PHP的网站 PHP Websites](#PHP的网站)
 
-    - [PHP的书 PHP Books](#PHP的书 PHP Books)
+    - [PHP的书 PHP Books](#PHP的书)
 
-    - [PHP的视频 PHP Videos](#PHP的视频 PHP Videos)
+    - [PHP的视频 PHP Videos](#PHP的视频)
 
-    - [PHP播客 PHP Podcasts](#PHP播客 PHP Podcasts)
+    - [PHP播客 PHP Podcasts](#PHP播客)
 
-    - [PHP通讯 PHP Newsletters](#PHP通讯 PHP Newsletters)
+    - [PHP通讯 PHP Newsletters](#PHP通讯)
 
-    - [PHP阅读 PHP Reading](#PHP阅读 PHP Reading)
+    - [PHP阅读 PHP Reading](#PHP阅读)
 
-    - [PHP内部阅读 PHP Internals Reading](#PHP内部阅读 PHP Internals Reading)
+    - [PHP内部阅读 PHP Internals Reading](#PHP内部阅读)
 
 ### 作曲家存储库 composer-repositories
 
@@ -1086,18 +1086,22 @@
 *奇妙与php相关的书籍。*
 
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - 用PHP编写的实际例子展示DDD建筑风格.
-* [Functional Programming in PHP](https://www.functionalphp.com/) - 这本书将告诉你如何利用这些新PHP5.3+ features by understanding functional programming principles
+* [Functional Programming in PHP](https://www.functionalphp.com/) - 这本书将告诉你如何利用这些新PHP5.3+ features by understanding
+  functional programming principles
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - 一本关于面向PHP布兰登野蛮.
-* [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) - 一本关于Josh洛克哈特新的PHP特性和最佳实践.
+* [Modern PHP New Features and Good Practices](https://www.oreilly.com/library/view/~/9781491905173/) -
+  一本关于Josh洛克哈特新的PHP特性和最佳实践.
 * [Modernizing Legacy Applications in PHP](https://leanpub.com/mlaphp) - 一本关于现代化遗留PHP应用程序由保罗·M. Jones.
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) - 电子书覆盖的所有功能和PHP的变化由Colin O 'Dell 7.
 * [PHP Pandas](https://daylerees.com/php-pandas/) - 一本关于学习的书编写PHP黛尔里斯.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) - 电子书对扩展PHP应用程序由史蒂夫电晕.
 * [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - 一本关于共同安全条款和实践由Chris Cornutt PHP.
 * [Signaling PHP](https://leanpub.com/signalingphp) - 一本关于捕捉PCNTL信号在CLI脚本由卡尔埃文斯.
-* [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - Chris Hartjes写的关于构建测试PHP应用程序的书.
-* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) - 这本书涵盖了解析和验证XML文档,使用XPath表达式,使用名称空间以及如何通过编程方式创建和修改XML文件.
+* [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - Chris
+  Hartjes写的关于构建测试PHP应用程序的书.
+* [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -
+  这本书涵盖了解析和验证XML文档,使用XPath表达式,使用名称空间以及如何通过编程方式创建和修改XML文件.
 
 ### PHP的视频 PHP Videos
 
