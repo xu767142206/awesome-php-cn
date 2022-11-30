@@ -247,6 +247,7 @@
       异步网络通信引擎
 * [Workerman相关](https://www.workerman.net/related_projects)
     - [Webman](https://github.com/walkor/webman) - 基于Workerman的PHP的高性能HTTP服务框架。.
+* [CodeIgniter](https://github.com/bcit-ci/CodeIgniter) - CodeIgniter是一个应用程序开发框架--一个工具包--为使用PHP建立网站的人服务.
 
 ### 额外的框架 framework-extras
 
