@@ -519,12 +519,11 @@
 * [CircleCI](https://circleci.com) - 持续集成平台.
 * [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - 让GitLab CI测试、构建、部署代码. TravisCi
   like.
-* [Jenkins](https://www.jenkins.io/) - 持续集成平台(PHP支持)(https://www.jenkins.io/solutions/php/).
+* [Jenkins](https://www.jenkins.io/) - 持续集成平台([PHP支持]((https://www.jenkins.io/solutions/php/))).
 * [JoliCi](https://github.com/jolicode/JoliCi) - 持续集成的客户端用PHP编写的,由码头工人.
 * [PHPCI](https://github.com/dancryer/phpci) - 一个开源的PHP持续集成平台.
 * [SemaphoreCI](https://semaphoreci.com/) - 持续集成平台开源和私人项目.
-* [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/)
-    - ;②持续基于码头工人为开源和私人项目集成平台.
+* [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - 持续基于码头工人为开源和私人项目集成平台.
 * [Travis CI](https://travis-ci.org/) - 持续集成平台.
 * [Setup PHP](https://github.com/shivammathur/setup-php) - PHP的GitHub的行动.
 
