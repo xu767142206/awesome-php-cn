@@ -230,7 +230,7 @@
 * [Symfony](https://symfony.com/) - 一组可重用的组件和web框架.
 * [Yii2](https://github.com/yiisoft/yii2/) - 一种快速、安全、高效的web框架.
 * [Leaf](https://leafphp.dev/) - 轻薄的web框架.
-* [Swoole相关](https://github.com/swoole)
+* [Swoole相关](https://github.com/swoole/awesome-swoole)
     - [SwooleDistributed](https://github.com/SwooleDistributed/SwooleDistributed) - swoole 分布式全栈框架
     - [Swoft](https://github.com/swoft-cloud/swoft) - 基于Swoole原生协程，新时代PHP高性能协程框架 https://www.swoft.org
     - [Hyperf](https://github.com/hyperf-cloud/hyperf) - 企业级的 PHP 协程微服务框架
@@ -245,7 +245,7 @@
     - [Zan](https://github.com/youzan/zan) - 有赞开源的 PHP 框架 (已停止维护)
     - [Msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架* [swoole相关](https://github.com/swoole) - 面向生产环境的 PHP
       异步网络通信引擎
-* [Workerman相关](https://github.com/walkor/Workerman)
+* [Workerman相关](https://www.workerman.net/related_projects)
     - [Webman](https://github.com/walkor/webman) - 基于Workerman的PHP的高性能HTTP服务框架。.
 
 ### 额外的框架 framework-extras
@@ -315,6 +315,7 @@
 * [Klein](https://github.com/klein/klein.php) - 灵活的路由器.
 * [Pux](https://github.com/c9s/Pux) - 另一个快速的路由库.
 * [Route](https://github.com/thephpleague/route) - 路由图书馆建立在快速的路线.
+* [Macaw](https://github.com/NoahBuscher/Macaw) - 一个简单的 PHP 路由器，超级精简、快速而且很性感。
 
 ### 模板 Templating
 
@@ -327,13 +328,18 @@
 * [Plates](http://platesphp.com/) - 一个原生PHP模板库.
 * [Smarty](https://www.smarty.net/) - PHP模板引擎来补充.
 * [Twig](https://twig.symfony.com/) - 一个全面的模板语言.
+* [asm89/twig-cache-extension](https://github.com/asm89/twig-cache-extension) - 用于Twig的模板片段缓存库.
+* [rcrowe/TwigBridge](https://github.com/rcrowe/TwigBridge) - Twig 模板引擎支持.
+* [Phly Mustache](https://github.com/weierophinney/phly_mustache) - 另一个PHP实现的Mustache模板语言.
+* [Lex](https://github.com/pyrocms/lex) - 一个轻量级模板解析器.
+* [Aura.View](https://github.com/auraphp/Aura.View) - 提供TemplateView和TwoStepView.
 
 ### 静态网站生成器 Static Site Generators
 
 *用于预处理内容以生成网页的工具。*
 
 * [Cecil](https://cecil.app/) - Cecil是一个CLI应用程序，合并Markdown文件，图像和Twig模板，以生成一个静态网站.
-* [Couscous](http://couscous.io) - 蒸粗麦粉减价文档变成漂亮的网站. It's GitHub Pages on steroids.
+* [Couscous](http://couscous.io) - 蒸粗麦粉减价文档变成漂亮的网站. 它是GitHub页面的立体化.
 * [Jigsaw](https://jigsaw.tighten.com/) - 简单的静态站点Laravel的叶片.
 * [Sculpin](https://sculpin.io) - 一个将Markdown和Twig转换为静态HTML的工具.
 * [Spress](http://spress.yosymfony.com) - 一个可扩展的工具，将Markdown和Twig转换成HTML.
@@ -352,6 +358,15 @@
 * [Symfony HTTP Client](https://github.com/symfony/http-client) - 同步或获取HTTP资源的组件异步.
 * [Laminas Diactoros](https://github.com/laminas/laminas-diactoros) - PSR-7 HTTP消息实现.
 
+- [amphp/artax](https://github.com/amphp/artax) - An Asynchronous HTTP Client for PHP
+- [HTTPFul](https://github.com/nategood/httpful) - 一个链式HTTP客户端
+- [php-curl-class](https://github.com/php-curl-class/php-curl-class) - PHP的Curl类
+- [php-mod/curl](https://github.com/php-mod/curl) - PHP Curl Class
+- [medz/cors](https://github.com/medz/cors) - PHP CORS（跨源资源共享）中间件.
+- [barryvdh/laravel-cors](https://github.com/barryvdh/laravel-cors) - laravel-cors包允许你用Laravel中间件配置发送跨源资源共享头信息。
+- [lezhnev74/openapi-psr7-validator](https://github.com/lezhnev74/openapi-psr7-validator) -
+  它根据OpenAPI规范验证PSR-7消息（HTTP请求/响应）.
+
 ### 爬虫 Scraping
 
 *图书馆刮网站。*
@@ -364,6 +379,7 @@
 * [PHP Spider](https://github.com/mvdbos/php-spider) - 一个可配置的和可扩展的PHP web蜘蛛.
 * [PHP Scraper](https://github.com/spekulatius/phpscraper) - 一个非常有意见的网络界面.
 * [Phpquery](https://github.com/phpquery/phpquery) - phpQuery实现了CSS3选择器驱动的文档对象模型（DOM）API，基于jQuery的JavaScript库 .
+* [Beanbun](https://github.com/kiddyuchina/Beanbun) - 多进程网络爬虫框架
 
 ### 中间件 Middlewares
 
@@ -376,7 +392,7 @@
 
 ### URL
 
-*库解析url。*
+*解析URL的库。*
 
 * [PHP Domain Parser](https://github.com/jeremykendall/php-domain-parser) - 一个域后缀解析器库.
 * [Purl](https://github.com/jwage/purl) - 一个URL处理库.
@@ -409,6 +425,14 @@
 * [Gaufrette](https://github.com/KnpLabs/Gaufrette) - 一个文件系统抽象层.
 * [PHP FFmpeg](https://github.com/PHP-FFmpeg/PHP-FFmpeg/) - 一个包装器(FFmpeg)[FFmpeg](https://www.ffmpeg.org/) 视频库.
 * [UnifiedArchive](https://github.com/wapmorgan/UnifiedArchive) - 一个统一的读者和作家的压缩档案.
+* [symfony/finder](https://github.com/symfony/finder) - 通过一个直观而流畅的接口来寻找文件和目录
+* [Canal](https://github.com/dflydev/dflydev-canal) - 一个检查互联网媒体类型的库
+* [Apache MIME Types](https://github.com/dflydev/dflydev-apache-mime-types) - 一个解析Apache MIME类型的库
+* [Ferret](https://github.com/versionable/Ferret) - 一个MIME检测库
+* [Hoa Mime](https://github.com/hoaproject/Mime) - 另一个MIME检测库
+* [Lurker](https://github.com/henrikbjorn/Lurker) - 一个资源跟踪库
+* [PHP File Locator](https://github.com/herrera-io/php-file-locator) - 一个在大型项目中定位文件的库
+* [GrahamCampbell/Laravel-Flysystem](https://github.com/GrahamCampbell/Laravel-Flysystem) - 文件系统操作,多平台支持
 
 ### 流 Streams
 
@@ -441,6 +465,22 @@
 * [Imagine](https://imagine.readthedocs.io/en/latest/index.html) - 一个图像处理库.
 * [Intervention Image](https://github.com/Intervention/image) - 另一个图像处理库.
 * [PHP Image Workshop](https://github.com/Sybio/ImageWorkshop) - 另一个图像处理库.
+* [Intervention/imagecache](https://github.com/Intervention/imagecache) - 图片缓存增强工具
+* [Sybio/GifFrameExtractor](https://github.com/Sybio/GifFrameExtractor) - 一个提取GIF动画帧信息的库
+* [Sybio/GifCreator](https://github.com/Sybio/GifCreator) - 从多幅图片中创建GIF动画的库
+* [nmcteam/image-with-text](https://github.com/nmcteam/image-with-text) - 在图像中嵌入文本的库
+* [PHPThumb](https://github.com/masterexploder/PHPThumb) - 缩略图处理库
+* [t0k4rt/phpqrcode](https://github.com/t0k4rt/phpqrcode) - 二维码生成库
+* [endroid/qr-code](https://github.com/endroid/qr-code) - 另一个二维码生成库
+* [Bacon/BaconQrCode](https://github.com/Bacon/BaconQrCode) - PHP的QR码生成器.
+* [SimpleSoftwareIO/simple-qrcode](https://github.com/SimpleSoftwareIO/simple-qrcode) - 二维码生成工具
+* [lsolesen/pel](https://github.com/lsolesen/pel) - PHP Exif 库
+* [php-exif](https://github.com/PHPExif/php-exif) - PHP Exif信息读取库
+* [Gregwar/Captcha](https://github.com/Gregwar/Captcha) - 图形验证码
+* [google/recaptcha](https://github.com/google/recaptcha) - google reCAPTCHA 验证码Client 库
+* [mewebstudio/captcha](https://github.com/mewebstudio/captcha) - 图片验证码方案.
+* [PhenX/php-svg-lib](https://github.com/PhenX/php-svg-lib) - SVG文件解析/渲染库.
+* [darylldoyle/svg-sanitizer](https://github.com/darylldoyle/svg-sanitizer) - 一个PHP SVG/XML消毒器.
 
 ### 测试 Testing
 
@@ -989,6 +1029,10 @@
 * [PHP Dotenv](https://github.com/vlucas/phpdotenv) - 解析和加载环境变量的.env` files.
 * [Symfony Dotenv](https://github.com/symfony/dotenv)- 解析并加载环境变量.env的文件。
 * [Yo! Symfony TOML](https://github.com/yosymfony/toml) - 一个PHP解析器(TOML) (https://github.com/toml-lang/toml).
+* [Yaconf](https://github.com/laruence/yaconf) - 一个高性能的配置管理扩展
+* [config](https://github.com/hassankhan/config) - 一个轻量级的配置加载器, 支持 PHP, INI, XML, JSON, YAML files
+* [Zend-config](https://github.com/zendframework/zend-config)
+* [symfony/yaml](https://github.com/symfony/yaml) - 加载和剥离YAML配置文件.
 
 ### 第三方api Third Party APIs
 
