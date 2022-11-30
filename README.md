@@ -2,13 +2,13 @@
 
 转载自：[https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
+> 大部分转载自awesome-php 由于本人英文太差所以用api翻译成了中文 有些翻译不对 请见谅
 
-
-> 转载自awesome-php 由于本人英文太差所以用api翻译成了中文 有些翻译不对 请见谅
-
-### 不定时更新同步 [更新时间:2022-11-29 18:56:20]
+### 不定时更新同步 [更新时间:2022-11-30 11:37:14]
 
 一个精心策划的令人惊叹的PHP库、资源和闪亮的东西列表。
+
+---
 
 ## 目录
 
@@ -19,7 +19,7 @@
     - [依赖关系管理 Dependency-Management](#依赖关系管理-dependency-management)
 
     - [依赖关系管理临时演员 Dependency-management-extras](#依赖关系管理临时演员-dependency-management-extras)
-      
+
     - [网络通信引擎 Network-Communication-Engine](#网络通信引擎-network-communication-engine)
 
     - [框架 Frameworks](#框架-frameworks)
@@ -215,7 +215,7 @@
 *php的一些网络通信引擎。*
 
 * [Workerman](https://github.com/walkor/Workerman) - 一个事件驱动的非阻塞I / O库.
-* [swoole](https://github.com/swoole) - 面向生产环境的 PHP 异步网络通信引擎
+* [Swoole](https://github.com/swoole) - 面向生产环境的 PHP 异步网络通信引擎
 
 ### 框架 frameworks
 
@@ -230,21 +230,23 @@
 * [Symfony](https://symfony.com/) - 一组可重用的组件和web框架.
 * [Yii2](https://github.com/yiisoft/yii2/) - 一种快速、安全、高效的web框架.
 * [Leaf](https://leafphp.dev/) - 轻薄的web框架.
-* [swoole相关](https://github.com/swoole)
-  - [SwooleDistributed](https://github.com/SwooleDistributed/SwooleDistributed) - swoole 分布式全栈框架
-  - [Swoft](https://github.com/swoft-cloud/swoft) - 基于Swoole原生协程，新时代PHP高性能协程框架 https://www.swoft.org
-  - [Hyperf](https://github.com/hyperf-cloud/hyperf) - 企业级的 PHP 协程微服务框架
-  - [Mixphp](https://github.com/mixstart/mixphp) - 基于 Swoole 的FPM、常驻内存、协程三模 PHP 高性能框架 (开发文档完善) http://mixphp.cn
-  - [Laravel-s](https://github.com/hhxsv5/laravel-s) - 集成 Swoole 到 Laravel 或 Lumen
-  - [Laravel-swoole](https://github.com/swooletw/laravel-swoole) - 基于Swoole的高性能HTTP服务器。加速你的Laravel或Lumen应用程序。
-  - [LaravelFly](https://github.com/scil/LaravelFly) - 成为一个绝对安全的解决方案来运行Laravel与Swoole。Laravel + Swoole Coroutine + Safety + Tinker Online.
-  - [Laravoole](https://github.com/garveen/laravoole) - Laravel && ( Swoole || Workerman ) 获得比php-fpm快10倍的速度
-  - [Easyswoole](https://github.com/easy-swoole/easyswoole) - 使用swoole很容易，就像echo "hello world "一样。;
-  - [Swoolefy](https://github.com/bingcool/swoolefy) - swoolefy是一个基于swoole实现的轻量级、高性能、协程级、开放性的API和MVC应用服务框架
-  - [Zan](https://github.com/youzan/zan) - 有赞开源的 PHP 框架 (已停止维护)
-  - [Msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架* [swoole相关](https://github.com/swoole) - 面向生产环境的 PHP 异步网络通信引擎
+* [Swoole相关](https://github.com/swoole)
+    - [SwooleDistributed](https://github.com/SwooleDistributed/SwooleDistributed) - swoole 分布式全栈框架
+    - [Swoft](https://github.com/swoft-cloud/swoft) - 基于Swoole原生协程，新时代PHP高性能协程框架 https://www.swoft.org
+    - [Hyperf](https://github.com/hyperf-cloud/hyperf) - 企业级的 PHP 协程微服务框架
+    - [Mixphp](https://github.com/mixstart/mixphp) - 基于 Swoole 的FPM、常驻内存、协程三模 PHP 高性能框架 (开发文档完善) http://mixphp.cn
+    - [Laravel-s](https://github.com/hhxsv5/laravel-s) - 集成 Swoole 到 Laravel 或 Lumen
+    - [Laravel-swoole](https://github.com/swooletw/laravel-swoole) - 基于Swoole的高性能HTTP服务器。加速你的Laravel或Lumen应用程序。
+    - [LaravelFly](https://github.com/scil/LaravelFly) - 成为一个绝对安全的解决方案来运行Laravel与Swoole。Laravel + Swoole Coroutine +
+      Safety + Tinker Online.
+    - [Laravoole](https://github.com/garveen/laravoole) - Laravel && ( Swoole || Workerman ) 获得比php-fpm快10倍的速度
+    - [Easyswoole](https://github.com/easy-swoole/easyswoole) - 使用swoole很容易，就像echo "hello world "一样。;
+    - [Swoolefy](https://github.com/bingcool/swoolefy) - swoolefy是一个基于swoole实现的轻量级、高性能、协程级、开放性的API和MVC应用服务框架
+    - [Zan](https://github.com/youzan/zan) - 有赞开源的 PHP 框架 (已停止维护)
+    - [Msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架* [swoole相关](https://github.com/swoole) - 面向生产环境的 PHP
+      异步网络通信引擎
 * [Workerman相关](https://github.com/walkor/Workerman)
-  - [Webman](https://github.com/walkor/webman) - 基于Workerman的PHP的高性能HTTP服务框架。.
+    - [Webman](https://github.com/walkor/webman) - 基于Workerman的PHP的高性能HTTP服务框架。.
 
 ### 额外的框架 framework-extras
 
@@ -361,6 +363,7 @@
 * [Symfony Panther](https://github.com/symfony/panther) - 浏览器测试PHP和web爬行库和Symfony.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - 一个可配置的和可扩展的PHP web蜘蛛.
 * [PHP Scraper](https://github.com/spekulatius/phpscraper) - 一个非常有意见的网络界面.
+* [Phpquery](https://github.com/phpquery/phpquery) - phpQuery实现了CSS3选择器驱动的文档对象模型（DOM）API，基于jQuery的JavaScript库 .
 
 ### 中间件 Middlewares
 
@@ -677,7 +680,6 @@
 * [ReactPHP](https://github.com/reactphp/reactphp) - 一个事件驱动的非阻塞I / O库.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - 反应性扩展库.
 
-
 ### 日志记录 Logging
 
 *库生成和使用日志文件。*
@@ -754,11 +756,22 @@
 
 ### NoSQL
 
-*库处理后端“NoSQL”。*
+*处理NoSQL后端的库.*
 
-* [PHPMongo](https://github.com/sokil/php-mongo) - 一个MongoDB ORM.
-* [Predis](https://github.com/predis/predis) - 一个功能完整的复述,图书馆.
-* [MongoDB](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP驱动程序.
+* MongoDB
+    * [MongoDB](https://github.com/mongodb/mongo-php-driver) - MongoDB PHP驱动程序.
+    * [mongo-php-library](https://github.com/mongodb/mongo-php-library) - MongoDB 官方PHP库
+    * [MongoQB](https://github.com/alexbilbie/MongoQB) - 一个MongoDB的查询构建库
+    * [Monga](https://github.com/thephpleague/monga) - 一个MongoDB的抽象库
+    * [mongodm](https://github.com/purekid/mongodm) - 一个MongoDB ORM
+    * [PHPMongo](https://github.com/sokil/php-mongo) - 一个MongoDB ORM.
+* Redis
+    * [Predis](https://github.com/predis/predis) - 一个功能完整的复述,图书馆.
+    * [codis](https://github.com/CodisLabs/codis) - Codis 是一个分布式 Redis 解决方案
+    * [twemproxy](https://github.com/twitter/twemproxy) - 是twtter开源的一个redis和memcache代理服务器
+    * [pika](https://github.com/Qihoo360/pika) - Pika是一个可持久化的大容量redis存储服务
+* ClickHouse
+    * [smi2/phpClickHouse](https://github.com/smi2/phpClickHouse) - php ClickHouse(列式数据库) wrapper
 
 ### 队列 Queue
 
@@ -990,6 +1003,26 @@
 * [Stripe](https://github.com/stripe/stripe-php) - 官方的条纹PHP库.
 * [Twilio](https://github.com/twilio/twilio-php) - 官方为什么Twilio PHP REST API.
 * [Notion](https://github.com/brd6/notion-sdk-php/) - 用于概念API的PHP库.
+* [GeoIP2-php](https://github.com/maxmind/GeoIP2-php) - MaxMind GeoIP2 地理位置服务
+* [mgp25/Instagram-API](https://github.com/mgp25/Instagram-API) - Instagram的私有 API
+* [maknz/slack](https://github.com/maknz/slack) - Slack 服务的集成
+* [Twitter-sdk](https://github.com/lyrixx/twitter-sdk) - 一个经过完全测试的Twitter SDK
+* [Twitter](https://github.com/thujohn/twitter) - Twitter API 的支持
+* [overtrue/weather](https://github.com/overtrue/weather) - 基于高德开放平台接口的 PHP 天气信息组件
+* [中国的一些库]
+    - [Wechat](https://github.com/overtrue/wechat) - 让微信开发更简单
+    - [Qiniu/sdk](https://github.com/qiniu/php-sdk) - 七牛云资源存储SDK for PHP
+    - [Qiniu/qshell](https://github.com/qiniu/qshell) - qshell是利用七牛文档上公开的API实现的一个方便开发者测试和使用七牛API服务的命令行工具。
+    - [Tencentyun/wafer](https://github.com/tencentyun/wafer) - 快速构建具备弹性能力的微信小程序
+    - [PingPlusPlus/pingpp-php](https://github.com/PingPlusPlus/pingpp-php) - ping++聚合支付SDK
+    - [aliyun/aliyun-oss-php-sdk](https://github.com/aliyun/aliyun-oss-php-sdk) - 阿里云对象存储
+    - [aliyun/openapi-sdk-php](https://github.com/aliyun/openapi-sdk-php) - 阿里云 SDK for PHP
+    - [overtrue/laravel-filesystem-qiniu](https://github.com/overtrue/laravel-filesystem-qiniu) - Laravel filesystem
+      七牛云的文件存储
+    - [jacobcyl/Aliyun-oss-storage](https://github.com/jacobcyl/Aliyun-oss-storage) - 阿里云OSS laravel扩展
+    - [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 满足多种发送需求的短信发送组件
+    - [mingyoung/dingtalk](https://github.com/mingyoung/dingtalk) - 钉钉 SDK
+    - [wowiwj/ding-notice](https://github.com/wowiwj/ding-notice) - 钉钉推送机器人消息发送laravel扩展包
 
 ### 扩展 Extensions
 
@@ -997,6 +1030,8 @@
 
 * [PHP CPP](https://www.php-cpp.com/) - 开发PHP扩展的C库.
 * [Zephir](https://github.com/zephir-lang/zephir ) - 编译语言PHP开发PHP扩展和C之间.
+
+- [PHP-X](https://github.com/swoole/PHP-X) - Zend API的C++封装器.
 
 ### 杂项 Miscellaneous
 
@@ -1133,7 +1168,7 @@
   Hartjes写的关于构建测试PHP应用程序的书.
 * [XML Parsing with PHP](https://www.phparch.com/books/xml-parsing-with-php/) -
   这本书涵盖了解析和验证XML文档,使用XPath表达式,使用名称空间以及如何通过编程方式创建和修改XML文件.
-  
+
 ### PHP的视频 PHP Videos
 
 *奇妙与php相关的视频。*
@@ -1172,7 +1207,7 @@
 * [The Linux Command Line](http://linuxcommand.org/) - Linux 命令行教程
 * [architecture.of.internet-product](https://github.com/davideuler/architecture.of.internet-product) - 互联网公司技术架构
 * [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
-  
+
 ### PHP内部阅读 PHP Internals Reading
 
 *PHP内部或阅读材料相关性能。*
