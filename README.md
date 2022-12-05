@@ -216,6 +216,7 @@
 
 * [Workerman](https://github.com/walkor/Workerman) - 一个事件驱动的非阻塞I / O库.
 * [Swoole](https://github.com/swoole) - 面向生产环境的 PHP 异步网络通信引擎
+* [Swow](https://github.com/swow/swow) - Swow是一个使用PHP和C编写的高性能纯协程网络通信引擎。它致力于使用最小C核心及多数PHP代码以支持PHP高性能网络编程。
 
 ### 框架 frameworks
 
@@ -588,6 +589,8 @@
 * [Rector](https://github.com/rectorphp/rector) - 升级工具和重构代码.
 * [Scrutinizer](https://scrutinizer-ci.com/) - 一个网络工具(PHP代码审查)(https://github.com/scrutinizer-ci/php-analyzer).
 * [UBench](https://github.com/devster/ubench) - 一个简单的微基准库.
+* [Text_Diff](https://github.com/pear/Text_Diff) - 代码文件比较工具.
+* [Tolerant PHP Parser](https://github.com/microsoft/tolerant-php-parser) - 微软出品的 PHP 语法解析器.
 
 ### 代码质量 Code Quality
 
@@ -654,6 +657,7 @@
 * [xDebug](https://github.com/xdebug/xdebug) - PHP的调试和配置工具.
 * [XHProf](https://github.com/phacility/xhprof) - 最初由Facebook开发的分析工具.
 * [Z-Ray](https://www.zend.com/products/z-ray) - Zend调试和配置工具服务器.
+* [PHP-Error](https://github.com/JosephLenton/PHP-Error) - PHP错误对于开发来说是不够好的，就这么简单。这旨在解决这个问题。.
 
 ### 构建工具 Build Tools
 
@@ -672,6 +676,7 @@
 * [Jobby](https://github.com/jobbyphp/jobby) - 一个PHP cron作业管理器没有修改crontab.
 * [Robo](https://github.com/consolidation/Robo) - 一个PHP跑任务与面向对象配置.
 * [Task](https://taskphp.github.io/) - 纯PHP运动员受繁重任务和吞咽.
+* [Cron](https://github.com/poliander/cron/) - Crontab 格式解析.
 
 ### 导航 Navigation
 
@@ -838,8 +843,10 @@
 * [Elastica](https://github.com/ruflin/Elastica) - ElasticSearch的客户端库.
 * [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - 官方客户端库[ElasticSearch] (https://www.elastic.co/).
 * [Solarium](https://www.solarium-project.org/) - (Solr) (https://solr的客户端库.apache.org/).
+* [Solarium](https://www.solarium-project.org/) - (Solr) (https://solr的客户端库.apache.org/).
 * [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - (Sphinx)
   查询图书馆(https://sphinxsearch.com/) and [Manticore](https://manticoresearch.com/) 搜索引擎.
+* [Tntsearch](https://github.com/teamtnt/tntsearch/) - 纯 PHP 实现的全文搜索引擎.
 
 ### 命令行 Command Line
 
@@ -918,9 +925,12 @@
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - 一个图书馆格式化SQL语句.
 * [Stringy](https://github.com/voku/Stringy) - 与多字节字符串处理库的支持.
 * [T-Regx](https://github.com/T-Regx/T-Regx) - 一个高级的正则表达式库，消除了PHP的陷阱.
+* [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - 更优雅的书写正则方式，就像 SQL Builder 一样.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - 库解析用户代理字符串.
 * [URLify](https://github.com/jbroadway/urlify) - 一个PHP Django的URLify港.js.
 * [UUID](https://github.com/ramsey/uuid) - 一个库生成uuid.
+* [Pinyin](https://github.com/overtrue/pinyin) - 基于 mozillazg/pinyin-data 词典的中文转拼音工具，更准确的支持多音字的汉字转拼音解决方案。.
+* [VicWord](https://github.com/lizhichao/VicWord) - 一个纯php的分词.
 
 ### 数字 Numbers
 
@@ -934,6 +944,7 @@
 * [PHP Conversion](https://github.com/Crisu83/php-conversion) - 另一个库之间的转换单位的措施.
 * [PHP Units of Measure](https://github.com/triplepoint/php-units-of-measure) - 一个图书馆的计量单位之间的转换.
 * [MathPHP](https://github.com/markrogoyski/math-php) - PHP数学库.
+* [Belt](https://github.com/ilya-dev/belt) - 工具函数库.
 
 ### 过滤和验证 Filtering and Validation
 
@@ -1009,6 +1020,7 @@
 * [Notificato](https://github.com/mac-cain13/notificato) - 一个库来处理推送通知.
 * [Notificator](https://github.com/namshi/notificator) - 一个轻量级的通知图书馆.
 * [Php-pushwoosh](https://github.com/gomoob/php-pushwoosh) - PHP库轻松地发送推送通知Pushwoosh REST Web服务.
+* [ApnsPHP](https://github.com/immobiliare/ApnsPHP) - 一整套开源的PHP类与iPhone、iPad和iPod Touch的苹果推送通知服务互动。.
 
 ### 部署 Deployment
 
@@ -1080,6 +1092,7 @@
     - [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 满足多种发送需求的短信发送组件
     - [mingyoung/dingtalk](https://github.com/mingyoung/dingtalk) - 钉钉 SDK
     - [wowiwj/ding-notice](https://github.com/wowiwj/ding-notice) - 钉钉推送机器人消息发送laravel扩展包
+    - [Easytbk](https://github.com/flutterbest/easytbk) - 淘宝联盟、京东联盟、多多进宝、唯享客、苏宁推客SDK封装。 仅支持laravel5-laravel8，这不是可以直接拿来用的返利系统。
 
 ### 扩展 Extensions
 
