@@ -1,4 +1,4 @@
-# php常见的资源、库 中文版本
+  # php常见的资源、库 中文版本
 
 转载自：[https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
@@ -411,6 +411,7 @@
 * [Mautic](https://github.com/mautic/mautic) - 电子邮件营销自动化.
 * [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个梅勒的解决方案.
 * [PHP IMAP](https://github.com/barbushin/php-imap) - 库访问通过POP3邮箱,IMAP和NNTP.
+* [ddeboer/imap](https://github.com/ddeboer/imap) - 面向对象，经过充分测试的PHP IMAP库.
 * [Stampie](https://github.com/Stampie/Stampie) - 图书馆的电子邮件服务,如[SendGrid] (https://sendgrid.com/)
   , [PostMark](https://postmarkapp.com)
   , [MailGun](https://www.mailgun.com/)and [MailChimp](https://mailchimp.com/features/transactional-email/).
