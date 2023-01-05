@@ -381,6 +381,7 @@
 * [PHP Scraper](https://github.com/spekulatius/phpscraper) - 一个非常有意见的网络界面.
 * [Phpquery](https://github.com/phpquery/phpquery) - phpQuery实现了CSS3选择器驱动的文档对象模型（DOM）API，基于jQuery的JavaScript库 .
 * [Beanbun](https://github.com/kiddyuchina/Beanbun) - 多进程网络爬虫框架
+* [QueryList](https://github.com/jae-jae/QueryList) - QueryList是一套简洁、优雅、可扩展的PHP采集工具(爬虫)，基于phpQuery。
 
 ### 中间件 Middlewares
 
@@ -440,8 +441,9 @@
 
 *库处理流。*
 
-* [ByteStream](https://amphp.org/byte-stream/) - 异步流抽象.
+* [byte-stream](https://github.com/amphp/byte-stream) - AMPHP 是用于 PHP 的事件驱动库的集合，设计时考虑到了纤维和并发性。Ampp/byte-stream 特别提供了流抽象，以简化处理各种字节流的工作.
 * [Streamer](https://github.com/fzaninotto/Streamer) - 一个简单的面向对象流包装器库.
+* [php-byte-buffer](https://github.com/Ne-Lexa/php-byte-buffer) - 这个类定义了读取和写入所有基元类型的值的方法。根据缓冲区的当前字节顺序，基元值被转换为(或从)字节序列，可以通过顺序方法检索和修改这些字节顺序。字节缓冲区的初始顺序始终是大端序.
 
 ### 依赖注入 Dependency Injection
 
@@ -694,6 +696,7 @@
 * [Laravel Mix](https://github.com/laravel-mix/laravel-mix ) - 一个优雅的包装Webpack 80飐e.
 * [Symfony Asset](https://github.com/symfony/asset) - 管理网络资产的URL生成和版本.
 * [Symfony Encore](https://github.com/symfony/webpack-encore) - 一个简单但功能强大的API来处理和编制资产围绕Webpack构建的.
+* [protobuf](https://github.com/protocolbuffers/protobuf/tree/main/php) - 谷歌 protobuf 运行库.
 
 ### 地理位置 Geolocation
 
@@ -712,8 +715,9 @@
 * [CalendR](https://yohan.giarel.li/CalendR/) - 日历管理图书馆.
 * [Carbon](https://github.com/briannesbitt/Carbon) - 一个简单的DateTime API扩展.
 * [Chronos](https://github.com/cakephp/chronos) - 一个DateTime API扩展支持可变和不可变的日期/时间.
-* [时刻.php](https://github.com/fightbulc/moment.php) - 时刻.受js启发的PHP DateTime处理程序，支持i18n.
+* [moment](https://github.com/fightbulc/moment.php) - 时刻.受js启发的PHP DateTime处理程序，支持i18n.
 * [Yasumi](https://github.com/azuyalabs/yasumi) - 一个库来帮助你计算假期的日期和名称.
+* [php-calendar](https://github.com/liujiawm/php-calendar) - calendar、日历、中国农历、阴历、节气、干支、生肖、星座.
 
 ### 事件 Event
 
