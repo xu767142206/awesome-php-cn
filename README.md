@@ -346,7 +346,7 @@
 * [Sculpin](https://sculpin.io) - 一个将Markdown和Twig转换为静态HTML的工具.
 * [Spress](http://spress.yosymfony.com) - 一个可扩展的工具，将Markdown和Twig转换成HTML.
 
-### HTTP客户端 HTTP
+### HTTP客户端 HTTP客户端
 
 *用于使用HTTP的库.*
 
@@ -593,6 +593,7 @@
 * [Scrutinizer](https://scrutinizer-ci.com/) - 一个网络工具(PHP代码审查)(https://github.com/scrutinizer-ci/php-analyzer).
 * [UBench](https://github.com/devster/ubench) - 一个简单的微基准库.
 * [Text_Diff](https://github.com/pear/Text_Diff) - 代码文件比较工具.
+* [sebastian/diff](https://github.com/sebastianbergmann/diff) - PHP 的 Diff 实现，将 PHPUnit 分解为一个独立组件.
 * [Tolerant PHP Parser](https://github.com/microsoft/tolerant-php-parser) - 微软出品的 PHP 语法解析器.
 
 ### 代码质量 Code Quality
@@ -735,6 +736,7 @@
 * [Ratchet](https://github.com/ratchetphp/Ratchet) - 图书馆网络套接字.
 * [ReactPHP](https://github.com/reactphp/reactphp) - 一个事件驱动的非阻塞I / O库.
 * [RxPHP](https://github.com/ReactiveX/RxPHP) - 反应性扩展库.
+* [Guzzle Promises](https://github.com/guzzle/promises) - 具有同步支持的PHP的Promises / A +库.
 
 ### 日志记录 Logging
 
@@ -1120,6 +1122,7 @@
 * [Safe](https://github.com/thecodingmachine/safe) - 所有的PHP函数,重写抛出异常,而不是返回false.
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - 一个库,允许闭包进行序列化.
 * [RTCKit/SIP](https://github.com/rtckit/php-sip) - 一个符合RFC 3261的SIP解析/渲染库.
+* [DeepCopy](https://github.com/myclabs/DeepCopy) - DeepCopy 可以帮助您创建对象的深度副本(克隆)。它被设计用于处理关联图中的循环.
 
 # 软件 Software
 
