@@ -1,4 +1,4 @@
-  # php常见的资源、库 中文版本
+# php常见的资源、库 中文版本
 
 转载自：[https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
 
@@ -40,7 +40,7 @@
 
     - [静态网站生成器 Static Site Generators](#静态网站生成器-static-site-generators)
 
-    - [HTTP客户端](#HTTP客户端)
+    - [HTTP客户端 HTTP Client](#HTTP客户端-HTTP-Client)
 
     - [爬虫 Scraping](#爬虫-scraping)
 
@@ -199,7 +199,8 @@
 *附加内容与依赖项管理相关。*
 
 * [Composed](https://github.com/joshdifabio/composed) - 一个库来解析您的项目的作曲家在运行时环境中.
-* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - 一个作曲家插件合并几个作曲家.json` files.
+* [Composer Merge Plugin](https://github.com/wikimedia/composer-merge-plugin) - 一个作曲家插件合并几个作曲家.json`
+  files.
 * [Composer Normalize](https://github.com/ergebnis/composer-normalize) - 一个插件正常化的作曲家.json` files.
 * [Composer Patches](https://github.com/cweagans/composer-patches) - 作曲家的插件应用补丁.
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI工具分析作曲家的依赖关系,并验证没有未知的符号是用于一个包的来源.
@@ -235,16 +236,19 @@
     - [SwooleDistributed](https://github.com/SwooleDistributed/SwooleDistributed) - swoole 分布式全栈框架
     - [Swoft](https://github.com/swoft-cloud/swoft) - 基于Swoole原生协程，新时代PHP高性能协程框架 https://www.swoft.org
     - [Hyperf](https://github.com/hyperf-cloud/hyperf) - 企业级的 PHP 协程微服务框架
-    - [Mixphp](https://github.com/mixstart/mixphp) - 基于 Swoole 的FPM、常驻内存、协程三模 PHP 高性能框架 (开发文档完善) http://mixphp.cn
+    - [Mixphp](https://github.com/mixstart/mixphp) - 基于 Swoole 的FPM、常驻内存、协程三模 PHP 高性能框架 (
+      开发文档完善) http://mixphp.cn
     - [Laravel-s](https://github.com/hhxsv5/laravel-s) - 集成 Swoole 到 Laravel 或 Lumen
     - [Laravel-swoole](https://github.com/swooletw/laravel-swoole) - 基于Swoole的高性能HTTP服务器。加速你的Laravel或Lumen应用程序。
-    - [LaravelFly](https://github.com/scil/LaravelFly) - 成为一个绝对安全的解决方案来运行Laravel与Swoole。Laravel + Swoole Coroutine +
+    - [LaravelFly](https://github.com/scil/LaravelFly) - 成为一个绝对安全的解决方案来运行Laravel与Swoole。Laravel +
+      Swoole Coroutine +
       Safety + Tinker Online.
     - [Laravoole](https://github.com/garveen/laravoole) - Laravel && ( Swoole || Workerman ) 获得比php-fpm快10倍的速度
     - [Easyswoole](https://github.com/easy-swoole/easyswoole) - 使用swoole很容易，就像echo "hello world "一样。;
     - [Swoolefy](https://github.com/bingcool/swoolefy) - swoolefy是一个基于swoole实现的轻量级、高性能、协程级、开放性的API和MVC应用服务框架
     - [Zan](https://github.com/youzan/zan) - 有赞开源的 PHP 框架 (已停止维护)
-    - [Msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架* [swoole相关](https://github.com/swoole) - 面向生产环境的 PHP
+    - [Msf](https://github.com/pinguo/php-msf) - Camera360开源的微服务框架* [swoole相关](https://github.com/swoole) -
+      面向生产环境的 PHP
       异步网络通信引擎
 * [Workerman相关](https://www.workerman.net/related_projects)
     - [Webman](https://github.com/walkor/webman) - 基于Workerman的PHP的高性能HTTP服务框架。.
@@ -326,7 +330,8 @@
 * [Latte](https://latte.nette.org/) - 最安全、真正直观的PHP模板.
 * [MtHaml](https://github.com/arnaud-lb/MtHaml) - HAML模板语言的PHP实现.
 * [Mustache](https://github.com/bobthecow/mustache.php) - 胡子的PHP实现模板语言.
-* [PHPTAL](https://phptal.org/) - 一个PHP实现的(TAL) [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language) 模板语言.
+* [PHPTAL](https://phptal.org/) - 一个PHP实现的(TAL) [TAL](https://en.wikipedia.org/wiki/Template_Attribute_Language)
+  模板语言.
 * [Plates](http://platesphp.com/) - 一个原生PHP模板库.
 * [Smarty](https://www.smarty.net/) - PHP模板引擎来补充.
 * [Twig](https://twig.symfony.com/) - 一个全面的模板语言.
@@ -346,7 +351,7 @@
 * [Sculpin](https://sculpin.io) - 一个将Markdown和Twig转换为静态HTML的工具.
 * [Spress](http://spress.yosymfony.com) - 一个可扩展的工具，将Markdown和Twig转换成HTML.
 
-### HTTP客户端 HTTP客户端
+### HTTP客户端 HTTP Client
 
 *用于使用HTTP的库.*
 
@@ -379,7 +384,8 @@
 * [Symfony Panther](https://github.com/symfony/panther) - 浏览器测试PHP和web爬行库和Symfony.
 * [PHP Spider](https://github.com/mvdbos/php-spider) - 一个可配置的和可扩展的PHP web蜘蛛.
 * [PHP Scraper](https://github.com/spekulatius/phpscraper) - 一个非常有意见的网络界面.
-* [Phpquery](https://github.com/phpquery/phpquery) - phpQuery实现了CSS3选择器驱动的文档对象模型（DOM）API，基于jQuery的JavaScript库 .
+* [Phpquery](https://github.com/phpquery/phpquery) - phpQuery实现了CSS3选择器驱动的文档对象模型（DOM）API，基于jQuery的JavaScript库
+  .
 * [Beanbun](https://github.com/kiddyuchina/Beanbun) - 多进程网络爬虫框架
 * [QueryList](https://github.com/jae-jae/QueryList) - QueryList是一套简洁、优雅、可扩展的PHP采集工具(爬虫)，基于phpQuery。
 
@@ -441,9 +447,12 @@
 
 *库处理流。*
 
-* [byte-stream](https://github.com/amphp/byte-stream) - AMPHP 是用于 PHP 的事件驱动库的集合，设计时考虑到了纤维和并发性。Ampp/byte-stream 特别提供了流抽象，以简化处理各种字节流的工作.
+* [byte-stream](https://github.com/amphp/byte-stream) - AMPHP 是用于 PHP 的事件驱动库的集合，设计时考虑到了纤维和并发性。Ampp/byte-stream
+  特别提供了流抽象，以简化处理各种字节流的工作.
 * [Streamer](https://github.com/fzaninotto/Streamer) - 一个简单的面向对象流包装器库.
-* [php-byte-buffer](https://github.com/Ne-Lexa/php-byte-buffer) - 这个类定义了读取和写入所有基元类型的值的方法。根据缓冲区的当前字节顺序，基元值被转换为(或从)字节序列，可以通过顺序方法检索和修改这些字节顺序。字节缓冲区的初始顺序始终是大端序.
+* [php-byte-buffer](https://github.com/Ne-Lexa/php-byte-buffer) -
+  这个类定义了读取和写入所有基元类型的值的方法。根据缓冲区的当前字节顺序，基元值被转换为(或从)
+  字节序列，可以通过顺序方法检索和修改这些字节顺序。字节缓冲区的初始顺序始终是大端序.
 
 ### 依赖注入 Dependency Injection
 
@@ -521,13 +530,15 @@
 *持续集成库和应用程序。*
 
 * [CircleCI](https://circleci.com) - 持续集成平台.
-* [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - 让GitLab CI测试、构建、部署代码. TravisCi
+* [GitlabCi](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/) - 让GitLab CI测试、构建、部署代码.
+  TravisCi
   like.
 * [Jenkins](https://www.jenkins.io/) - 持续集成平台([PHP支持](https://www.jenkins.io/solutions/php/)).
 * [JoliCi](https://github.com/jolicode/JoliCi) - 持续集成的客户端用PHP编写的,由码头工人.
 * [PHPCI](https://github.com/dancryer/phpci) - 一个开源的PHP持续集成平台.
 * [SemaphoreCI](https://semaphoreci.com/) - 持续集成平台开源和私人项目.
-* [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/) - 持续基于码头工人为开源和私人项目集成平台.
+* [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/)
+  - 持续基于码头工人为开源和私人项目集成平台.
 * [Travis CI](https://travis-ci.org/) - 持续集成平台.
 * [Setup PHP](https://github.com/shivammathur/setup-php) - PHP的GitHub的行动.
 
@@ -544,7 +555,8 @@
 
 *库生成安全的随机数,加密数据和漏洞扫描和检测。*
 
-* [Halite](https://paragonie.com/project/halite) - 一个简单的库加密使用[libsodium] (https://github.com/jedisct1/libsodium).
+* [Halite](https://paragonie.com/project/halite) -
+  一个简单的库加密使用[libsodium] (https://github.com/jedisct1/libsodium).
 * [HTML Purifier](https://github.com/ezyang/htmlpurifier) - A standards compliant HTML filter.
 * [IniScan](https://github.com/psecio/iniscan) - 一个工具,扫描PHP INI文件的安全.
 * [Optimus](https://github.com/jenssegers/optimus) - 基于Knuth的乘法散列方法Id困惑.
@@ -573,8 +585,10 @@
 * [phpass](https://www.openwall.com/phpass/) - 一个便携式密码散列的框架.
 * [Zxcvbn PHP](https://github.com/bjeavons/zxcvbn-php) - 一个现实的PHP密码强度估计基于Zxcvbn JS库.
 * [tuupola/base62](https://github.com/tuupola/base62) - base62编码库(短网址应用)
-* [stephen-hill/base58php](https://github.com/stephen-hill/base58php) - base58编码库(Bitcoin中使用的一种独特的编码方式，主要用于产生Bitcoin的钱包地址)
-* [base85](https://github.com/tuupola/base85) - base85编码库(在base64的基础上进一步压缩数据量,应用于Adobe的PostScript语言和PDF文档格式)
+* [stephen-hill/base58php](https://github.com/stephen-hill/base58php) - base58编码库(
+  Bitcoin中使用的一种独特的编码方式，主要用于产生Bitcoin的钱包地址)
+* [base85](https://github.com/tuupola/base85) - base85编码库(
+  在base64的基础上进一步压缩数据量,应用于Adobe的PostScript语言和PDF文档格式)
 
 ### 代码分析 Code Analysis
 
@@ -590,7 +604,8 @@
 * [PHPQA](https://github.com/EdgedesignCZ/phpqa) - 的工具运行QA工具(phploc、phpcpd phpcs, pdepend, phpmd, phpmetrics).
 * [Qafoo Quality Analyzer](https://github.com/Qafoo/QualityAnalyzer) - 一个工具来可视化指标和源代码.
 * [Rector](https://github.com/rectorphp/rector) - 升级工具和重构代码.
-* [Scrutinizer](https://scrutinizer-ci.com/) - 一个网络工具(PHP代码审查)(https://github.com/scrutinizer-ci/php-analyzer).
+* [Scrutinizer](https://scrutinizer-ci.com/) - 一个网络工具(PHP代码审查)(https://github.com/scrutinizer-ci/php-analyzer)
+  .
 * [UBench](https://github.com/devster/ubench) - 一个简单的微基准库.
 * [Text_Diff](https://github.com/pear/Text_Diff) - 代码文件比较工具.
 * [sebastian/diff](https://github.com/sebastianbergmann/diff) - PHP 的 Diff 实现，将 PHPUnit 分解为一个独立组件.
@@ -789,7 +804,8 @@
 
 * [Atlas.Orm](https://github.com/atlasphp/Atlas.Orm) - 数据映射器实现你的持久性模型在PHP.
 * [Aura.Sql](https://github.com/auraphp/Aura.Sql) - 提供了一个扩展本机PDO和分析器和连接定位器.
-* [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - 独立查询建筑商MySQL、PostgreSQL SQLite和Microsoft SQL Server.
+* [Aura.SqlQuery](https://github.com/auraphp/Aura.SqlQuery) - 独立查询建筑商MySQL、PostgreSQL SQLite和Microsoft SQL
+  Server.
 * [Baum](https://github.com/etrepat/baum) - 一组嵌套实现雄辩的.
 * [CakePHP ORM](https://github.com/cakephp/orm) - 对象关系映射器,使用DataMapper模式实现的.
 * [Cycle ORM](https://github.com/cycle/orm) - PHP DataMapper ORM.
@@ -810,7 +826,8 @@
 * [Migrations](https://github.com/icomefromthenet/Migrations) - 迁移管理图书馆.
 * [Phinx](https://github.com/cakephp/phinx) - 另一个图书馆数据库迁移.
 * [PHPMig](https://github.com/davedevelopment/phpmig) - 另一个迁移管理图书馆.
-* [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - 数据库迁移ala ActiveRecord迁移支持MySQL, PHP Postgres SQLite.
+* [Ruckusing](https://github.com/ruckus/ruckusing-migrations) - 数据库迁移ala ActiveRecord迁移支持MySQL, PHP Postgres
+  SQLite.
 
 ### NoSQL
 
@@ -848,7 +865,8 @@
 *库和软件上执行搜索查询索引和数据。*
 
 * [Elastica](https://github.com/ruflin/Elastica) - ElasticSearch的客户端库.
-* [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) - 官方客户端库[ElasticSearch] (https://www.elastic.co/).
+* [ElasticSearch PHP](https://github.com/elastic/elasticsearch-php) -
+  官方客户端库[ElasticSearch] (https://www.elastic.co/).
 * [Solarium](https://www.solarium-project.org/) - (Solr) (https://solr的客户端库.apache.org/).
 * [Solarium](https://www.solarium-project.org/) - (Solr) (https://solr的客户端库.apache.org/).
 * [SphinxQL Query Builder](https://foolcode.github.io/SphinxQL-Query-Builder/) - (Sphinx)
@@ -859,11 +877,13 @@
 
 *库相关的命令行。*
 
-* [Aura.Cli](https://github.com/auraphp/Aura.Cli) -提供请求(上下文)和响应(Stdio)对象用于命令行接口，包括Getopt支持，以及用于的独立Help对象 描述命令
+* [Aura.Cli](https://github.com/auraphp/Aura.Cli) -提供请求(上下文)和响应(Stdio)对象用于命令行接口，包括Getopt支持，以及用于的独立Help对象
+  描述命令
 * [Boris](https://github.com/borisrepl/boris) - 一个微小的PHP REPL.
 * [Cilex](https://github.com/Cilex/Cilex) - 一个微型的框架来构建命令行工具.
 * [CLI Menu](https://github.com/php-school/cli-menu) - 图书馆建设CLI菜单.
-* [CLIFramework](https://github.com/c9s/CLIFramework) - 命令行框架支持zsh和bash完成生成,子命令和选项约束. It also powers phpbrew.
+* [CLIFramework](https://github.com/c9s/CLIFramework) - 命令行框架支持zsh和bash完成生成,子命令和选项约束. It also powers
+  phpbrew.
 * [CLImate](https://github.com/thephpleague/climate) - 库输出颜色和特殊的格式.
 * [Commando](https://github.com/nategood/commando) - 另一个简单的命令行解析器.
 * [Cron Expression](https://github.com/mtdowling/cron-expression) - 图书馆计算cron运行日期.
@@ -877,7 +897,8 @@
 *图书馆实现用户身份验证和授权。*
 
 * [Aura.Auth](https://github.com/auraphp/Aura.Auth) - 使用各种适配器提供了身份验证功能和会话跟踪.
-* [SocialConnect Auth](https://github.com/socialConnect/auth) - 一个开源的社会符号(OAuth1 \ OAuth2 \ OpenID \ OpenIDConnect).
+* [SocialConnect Auth](https://github.com/socialConnect/auth) - 一个开源的社会符号(OAuth1 \ OAuth2 \ OpenID \
+  OpenIDConnect).
 * [Json Web Token](https://github.com/lcobucci/jwt) - Json令牌验证和传递信息.
 * [OAuth 1.0 Client](https://github.com/thephpleague/oauth1-client) - OAuth 1.0 client library.
 * [OAuth 2.0 Client](https://github.com/thephpleague/oauth2-client) - OAuth 2.0 client library.
@@ -932,7 +953,8 @@
 * [SQL Formatter](https://github.com/jdorn/sql-formatter/) - 一个图书馆格式化SQL语句.
 * [Stringy](https://github.com/voku/Stringy) - 与多字节字符串处理库的支持.
 * [T-Regx](https://github.com/T-Regx/T-Regx) - 一个高级的正则表达式库，消除了PHP的陷阱.
-* [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - 更优雅的书写正则方式，就像 SQL Builder 一样.
+* [PHPVerbalExpressions](https://github.com/VerbalExpressions/PHPVerbalExpressions) - 更优雅的书写正则方式，就像 SQL
+  Builder 一样.
 * [UA Parser](https://github.com/tobie/ua-parser/tree/master/php) - 库解析用户代理字符串.
 * [URLify](https://github.com/jbroadway/urlify) - 一个PHP Django的URLify港.js.
 * [UUID](https://github.com/ramsey/uuid) - 一个库生成uuid.
@@ -1016,7 +1038,8 @@
 * [Monad PHP](https://github.com/ircmaxell/monad-php) - 一个简单Monad库
 * [Galapagos](https://github.com/endel/galapagos) - 语言转换进化
 * [Lib Accessor](https://github.com/phine/lib-accessor) - 一个简化访问的库
-* [laracasts/Laravel-5-Generators-Extended](https://github.com/laracasts/Laravel-5-Generators-Extended) - Laracasts 出品的代码快速生成工具
+* [laracasts/Laravel-5-Generators-Extended](https://github.com/laracasts/Laravel-5-Generators-Extended) - Laracasts
+  出品的代码快速生成工具
 
 ### 通知 Notifications
 
@@ -1099,7 +1122,8 @@
     - [overtrue/easy-sms](https://github.com/overtrue/easy-sms) - 满足多种发送需求的短信发送组件
     - [mingyoung/dingtalk](https://github.com/mingyoung/dingtalk) - 钉钉 SDK
     - [wowiwj/ding-notice](https://github.com/wowiwj/ding-notice) - 钉钉推送机器人消息发送laravel扩展包
-    - [Easytbk](https://github.com/flutterbest/easytbk) - 淘宝联盟、京东联盟、多多进宝、唯享客、苏宁推客SDK封装。 仅支持laravel5-laravel8，这不是可以直接拿来用的返利系统。
+    - [Easytbk](https://github.com/flutterbest/easytbk) - 淘宝联盟、京东联盟、多多进宝、唯享客、苏宁推客SDK封装。
+      仅支持laravel5-laravel8，这不是可以直接拿来用的返利系统。
 
 ### 扩展 Extensions
 
@@ -1187,7 +1211,8 @@
 * [MailCatcher](https://github.com/sj26/mailcatcher) - web工具来捕获和查看电子邮件.
 * [phpMyAdmin](https://github.com/phpmyadmin/phpmyadmin) - MySQL / MariaDB的web界面.
 * [PHP Queue](https://github.com/CoderKungfu/php-queue) - 一个应用程序来管理队列的后端.
-* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - 一个简单的web界面来管理(复述)(https://redis.io/) databases.
+* [phpRedisAdmin](https://github.com/ErikDubbelboer/phpRedisAdmin) - 一个简单的web界面来管理(复述)(https://redis.io/)
+  databases.
 * [PHPSandbox](https://phpsandbox.io) - 一个在线的PHP IDE浏览器.
 
 ### 基础设施 Infrastructure
@@ -1229,7 +1254,8 @@
 *奇妙与php相关的书籍。*
 
 * [Domain-Driven Design in PHP](https://leanpub.com/ddd-in-php) - 用PHP编写的实际例子展示DDD建筑风格.
-* [Functional Programming in PHP](https://www.functionalphp.com/) - 这本书将告诉你如何利用这些新PHP5.3+ features by understanding
+* [Functional Programming in PHP](https://www.functionalphp.com/) - 这本书将告诉你如何利用这些新PHP5.3+ features by
+  understanding
   functional programming principles
 * [Grumpy PHPUnit](https://leanpub.com/grumpy-phpunit) - A book about unit testing with PHPUnit by Chris Hartjes.
 * [Mastering Object-Orientated PHP](https://www.brandonsavage.net/) - 一本关于面向PHP布兰登野蛮.
@@ -1239,7 +1265,8 @@
 * [PHP 7 Upgrade Guide](https://leanpub.com/php7) - 电子书覆盖的所有功能和PHP的变化由Colin O 'Dell 7.
 * [PHP Pandas](https://daylerees.com/php-pandas/) - 一本关于学习的书编写PHP黛尔里斯.
 * [Scaling PHP Applications](https://www.scalingphpbook.com) - 电子书对扩展PHP应用程序由史蒂夫电晕.
-* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - 一本关于共同安全条款和实践由Chris Cornutt PHP.
+* [Securing PHP: Core Concepts](https://leanpub.com/securingphp-coreconcepts) - 一本关于共同安全条款和实践由Chris
+  Cornutt PHP.
 * [Signaling PHP](https://leanpub.com/signalingphp) - 一本关于捕捉PCNTL信号在CLI脚本由卡尔埃文斯.
 * [The Grumpy Programmer's Guide to Building Testable PHP Applications](https://leanpub.com/grumpy-testing) - Chris
   Hartjes写的关于构建测试PHP应用程序的书.
