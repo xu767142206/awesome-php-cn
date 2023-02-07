@@ -538,7 +538,7 @@
 * [PHPCI](https://github.com/dancryer/phpci) - 一个开源的PHP持续集成平台.
 * [SemaphoreCI](https://semaphoreci.com/) - 持续集成平台开源和私人项目.
 * [Shippable](https://jfrog.com/blog/weve-acquired-shippable-to-complete-devops-pipeline-automation-from-code-to-production/)
-  - 持续基于码头工人为开源和私人项目集成平台.
+    - 持续基于码头工人为开源和私人项目集成平台.
 * [Travis CI](https://travis-ci.org/) - 持续集成平台.
 * [Setup PHP](https://github.com/shivammathur/setup-php) - PHP的GitHub的行动.
 
@@ -960,6 +960,7 @@
 * [UUID](https://github.com/ramsey/uuid) - 一个库生成uuid.
 * [Pinyin](https://github.com/overtrue/pinyin) - 基于 mozillazg/pinyin-data 词典的中文转拼音工具，更准确的支持多音字的汉字转拼音解决方案。.
 * [VicWord](https://github.com/lizhichao/VicWord) - 一个纯php的分词.
+* [Emoji](https://github.com/spatie/emoji) - 以编程方式使用表情符号字符
 
 ### 数字 Numbers
 
@@ -1147,6 +1148,7 @@
 * [SuperClosure](https://github.com/jeremeamia/super_closure) - 一个库,允许闭包进行序列化.
 * [RTCKit/SIP](https://github.com/rtckit/php-sip) - 一个符合RFC 3261的SIP解析/渲染库.
 * [DeepCopy](https://github.com/myclabs/DeepCopy) - DeepCopy 可以帮助您创建对象的深度副本(克隆)。它被设计用于处理关联图中的循环.
+* [php-helper](https://github.com/kakuilan/php-helper) - php 常用函数库/工具集,仅测试支持php 7.2/7.3/7.4/8.0.
 
 # 软件 Software
 
