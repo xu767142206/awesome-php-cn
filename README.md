@@ -416,7 +416,7 @@
 * [Email Validator](https://github.com/nojacko/email-validator) - 一个小的电子邮件地址验证库.
 * [Fetch](https://github.com/tedious/Fetch) - 一个IMAP库.
 * [Mautic](https://github.com/mautic/mautic) - 电子邮件营销自动化.
-* [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 另一个梅勒的解决方案.
+* [PHPMailer](https://github.com/PHPMailer/PHPMailer) - 一个全功能的 PHP 电子邮件创建和传输类.
 * [PHP IMAP](https://github.com/barbushin/php-imap) - 库访问通过POP3邮箱,IMAP和NNTP.
 * [ddeboer/imap](https://github.com/ddeboer/imap) - 面向对象，经过充分测试的PHP IMAP库.
 * [Stampie](https://github.com/Stampie/Stampie) - 图书馆的电子邮件服务,如[SendGrid] (https://sendgrid.com/)
@@ -424,6 +424,7 @@
   , [MailGun](https://www.mailgun.com/)and [MailChimp](https://mailchimp.com/features/transactional-email/).
 * [SwiftMailer](https://swiftmailer.symfony.com) - 梅勒的解决方案.
 * [Symfony Mailer](https://github.com/symfony/mailer) - 一个强大的库创建和发送电子邮件.
+* [PhpMail-SMTP-POP3-IMAP](https://github.com/weiyixi/PhpMail-SMTP-POP3-IMAP) - 改造PhpMail得到的`邮件接收、发送`库.
 
 ### 文件 Files
 
