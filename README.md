@@ -144,6 +144,8 @@
 
     - [扩展 Extensions](#扩展-extensions)
 
+    - [机器学习 Machine Learning](#机器学习-Machine-Learning)
+     
     - [杂项 Miscellaneous](#杂项-miscellaneous)
 
 - [软件 Software](#软件-software)
@@ -1134,6 +1136,12 @@
 * [PHP CPP](https://www.php-cpp.com/) - 开发PHP扩展的C库.
 * [Zephir](https://github.com/zephir-lang/zephir ) - 编译语言PHP开发PHP扩展和C之间.
 * [PHP-X](https://github.com/swoole/PHP-X) - Zend API的C++封装器.
+
+### 机器学习 Machine Learning
+
+* [PHP-ML](https://github.com/jorgecasas/php-ml) - PHP 中机器学习的新方法。算法，交叉验证，神经网络，Preprocessing，特征提取等等.
+* [PHP-ML 学习](https://github.com/pmlic/PHP-ML-study) - 算法学习介绍.
+* [Rindow 神经网络](https://github.com/rindow/rindow-neuralnetworks) - Rindow 神经网络是一个用于深度学习的高级神经网络库.
 
 ### 杂项 Miscellaneous
 
