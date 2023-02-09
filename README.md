@@ -1142,6 +1142,7 @@
 * [PHP-ML](https://github.com/jorgecasas/php-ml) - PHP 中机器学习的新方法。算法，交叉验证，神经网络，Preprocessing，特征提取等等.
 * [PHP-ML 学习](https://github.com/pmlic/PHP-ML-study) - 算法学习介绍.
 * [Rindow 神经网络](https://github.com/rindow/rindow-neuralnetworks) - Rindow 神经网络是一个用于深度学习的高级神经网络库.
+* [RubixML](https://github.com/RubixML/ML) - 高级机器学习和深度学习库，面向 PHP语言语言.
 
 ### 杂项 Miscellaneous
 
