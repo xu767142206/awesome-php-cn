@@ -145,7 +145,7 @@
     - [扩展 Extensions](#扩展-extensions)
 
     - [机器学习 Machine Learning](#机器学习-Machine-Learning)
-     
+
     - [杂项 Miscellaneous](#杂项-miscellaneous)
 
 - [软件 Software](#软件-software)
@@ -1143,6 +1143,7 @@
 * [PHP-ML 学习](https://github.com/pmlic/PHP-ML-study) - 算法学习介绍.
 * [Rindow 神经网络](https://github.com/rindow/rindow-neuralnetworks) - Rindow 神经网络是一个用于深度学习的高级神经网络库.
 * [RubixML](https://github.com/RubixML/ML) - 高级机器学习和深度学习库，面向 PHP语言语言.
+* [PHP FANN](https://github.com/bukka/php-fann) - 这是一个PHP的 快速人工神经网络 扩展.
 
 ### 杂项 Miscellaneous
 
