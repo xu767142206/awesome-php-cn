@@ -649,6 +649,7 @@
 * [Finite](https://yohan.giarel.li/Finite/) - 一个简单的PHP有限状态机.
 * [Functional PHP](https://github.com/lstrojny/functional-php) - 函数式编程库.
 * [Iter](https://github.com/nikic/iter) - 图书馆提供了迭代原语使用发电机.
+* [IterTools PHP](https://github.com/markrogoyski/itertools-php) - 一个提供处理可迭代实体的功能的库（类似于Python中的itertools库）.
 * [Patchwork](https://patchwork2.org/) - 重新定义用户的库函数.
 * [Pipeline](https://github.com/thephpleague/pipeline) - 管道模式实现.
 * [Porter](https://github.com/ScriptFUSION/Porter) - 数据导入抽象库消费Web api和其他数据源.
