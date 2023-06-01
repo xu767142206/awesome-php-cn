@@ -207,8 +207,8 @@
 * [Composer Patches](https://github.com/cweagans/composer-patches) - 作曲家的插件应用补丁.
 * [Composer Require Checker](https://github.com/maglnet/ComposerRequireChecker) - CLI工具分析作曲家的依赖关系,并验证没有未知的符号是用于一个包的来源.
 * [Composer Unused](https://github.com/composer-unused/composer-unused) - 一个CLI工具扫描未使用的作曲家包.
-* [Prestissimo](https://github.com/hirak/prestissimo) - 一个作曲家插件使平行的安装过程.
-* [Repman](https://repman.io) - 一个私人的PHP包repository manager和Packagist代理.
+* [Prestissimo](https://github.com/hirak/prestissimo) - 一个作曲家插件，支持并行安装过程.
+* [Repman](https://repman.io) - 一个私有的PHP包仓库管理器和Packagist代理.
 * [Satis](https://github.com/composer/satis) - 一个静态的作曲家库发生器.
 * [Tooly](https://github.com/tommy-muehle/tooly-composer-script) - 一个图书馆管理PHAR文件在项目使用的作曲家.
 * [Toran Proxy](https://toranproxy.com) - 一个静态的作曲家库和代理.
@@ -948,6 +948,8 @@
 * [ANSI to HTML5](https://github.com/sensiolabs/ansi-to-html) - 一个ANSI到HTML5的转换库.
 * [Color Jizz](https://github.com/mikeemoo/ColorJizz-PHP) - 一个图书馆操纵和转换颜色.
 * [Device Detector](https://github.com/matomo-org/device-detector) - 另一个库解析用户代理字符串.
+* [aleksey-anisimov/Emoji](https://github.com/aleksey-anisimov/emoji) - 一个库来检测表情符号，删除表情符号，编码表情符号和解码字符串的表情符号.
+* [Hoa String](https://github.com/hoaproject/Ustring) - 另一个UTF-8字符串库.
 * [Jieba-PHP](https://github.com/fukuball/jieba-php) - 一个PHP Python的jieba港. 中文文本分词为自然 语言处理.
 * [Mobile-Detect](https://github.com/serbanghita/Mobile-Detect) - 一个轻量级的PHP类检测移动设备(包括平板电脑).
 * [Patchwork UTF-8](https://github.com/nicolas-grekas/Patchwork-UTF8) - 一个可移植的库来处理utf - 8编码的字符串.
